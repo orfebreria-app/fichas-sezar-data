@@ -2731,7 +2731,9 @@
     "description": "en metal su color, plateado y dorado.",
     "full_text": "Farol de trono realizado en metal su color, plateado y dorado.",
     "page": 45,
-    "images": [],
+    "images": [
+      "p45_18-6001_789.jpg"
+    ],
     "despiece": {
       "peso_aprox_g": "",
       "tiempo_estimado_horas": "",
