@@ -3458,7 +3458,10 @@
     "description": "de pan.",
     "full_text": "Molde de aluminio para la fabricación de pan.",
     "page": 53,
-    "images": [],
+    "images": [
+      "p53_N2_923.jpg",
+      "p53_N2_922.jpg"
+    ],
     "despiece": {
       "peso_aprox_g": "",
       "tiempo_estimado_horas": "",
