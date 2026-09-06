@@ -14,19 +14,19 @@
     ],
     "despiece": {
       "peso_aprox_g": "",
-      "tiempo_estimado_horas": "",
-      "materiales_principales": "",
+      "tiempo_estimado_horas": "60",
+      "materiales_principales": "Latón con baño de plata y oro interior.",
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [
         {
-          "nombre": "Disco base tapa",
+          "nombre": "",
           "tipo": "disco",
-          "material": "Plata 925",
-          "diametro_mm": "120",
-          "espesor_mm": "1.5",
-          "cantidad": "2",
-          "unidad": "ud",
+          "material": "",
+          "diametro_mm": "",
+          "espesor_mm": "",
+          "cantidad": "",
+          "unidad": "",
           "notas": ""
         }
       ],
@@ -36,6 +36,20 @@
           "tarea_material": "Pulido final y abrillantado",
           "cantidad": "1",
           "unidad": "ud",
+          "notas": ""
+        },
+        {
+          "area": "galvanos",
+          "tarea_material": "pintar siliconas y meter al ccobre",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": "varias siliconas"
+        },
+        {
+          "area": "metalero",
+          "tarea_material": "montar todo el sagrario",
+          "cantidad": "1",
+          "unidad": "",
           "notas": ""
         }
       ]
