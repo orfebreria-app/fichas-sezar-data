@@ -2918,7 +2918,9 @@
     "description": "15 cm. Alto - 10 cm. Diámetro.",
     "full_text": "21 cm. Alto - 14 cm. Diámetro. Disponible en plateado y dorado. 15 cm. Alto - 10 cm. Diámetro.",
     "page": 48,
-    "images": [],
+    "images": [
+      "p48_N58_810.jpg"
+    ],
     "despiece": {
       "peso_aprox_g": "",
       "tiempo_estimado_horas": "",
