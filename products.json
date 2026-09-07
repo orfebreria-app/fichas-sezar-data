@@ -2898,13 +2898,66 @@
       "p48_N58_809.jpg"
     ],
     "despiece": {
-      "peso_aprox_g": "",
-      "tiempo_estimado_horas": "",
-      "materiales_principales": "",
-      "precio_referencia": "",
+      "peso_aprox_g": "300",
+      "tiempo_estimado_horas": "3",
+      "materiales_principales": "Laton o plata",
+      "precio_referencia": "266",
       "notas_generales": "",
-      "piezas": [],
-      "otros_materiales": []
+      "piezas": [
+        {
+          "nombre": "disco copa",
+          "tipo": "disco",
+          "material": "laton",
+          "diametro_mm": "160",
+          "espesor_mm": "1.2",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "nombre": "disco sobrecopa",
+          "tipo": "disco",
+          "material": "laton",
+          "diametro_mm": "160",
+          "espesor_mm": "1.2",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "nombre": "disco pie",
+          "tipo": "disco",
+          "material": "laton",
+          "diametro_mm": "120",
+          "espesor_mm": "0.8",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "estampador",
+          "tarea_material": "estampar corderos",
+          "cantidad": "2",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "area": "platero",
+          "tarea_material": "soldar corderos y montaje",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "area": "pulidor ",
+          "tarea_material": "pulir, dar baños y dar brillo",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        }
+      ]
     },
     "notes_ficha": ""
   },
