@@ -2879,13 +2879,103 @@
       "p48_N67_807.jpg"
     ],
     "despiece": {
-      "peso_aprox_g": "",
-      "tiempo_estimado_horas": "",
-      "materiales_principales": "",
-      "precio_referencia": "",
+      "peso_aprox_g": "600",
+      "tiempo_estimado_horas": "5",
+      "materiales_principales": "Latón o plata de ley",
+      "precio_referencia": "710-780",
       "notas_generales": "",
-      "piezas": [],
-      "otros_materiales": []
+      "piezas": [
+        {
+          "nombre": "copa",
+          "tipo": "disco",
+          "material": "laton",
+          "diametro_mm": "230",
+          "espesor_mm": "1.2",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "nombre": "sobrecopa",
+          "tipo": "disco",
+          "material": "laton",
+          "diametro_mm": "215",
+          "espesor_mm": "1",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "nombre": "pie",
+          "tipo": "disco",
+          "material": "laton",
+          "diametro_mm": "140",
+          "espesor_mm": "0.8",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "nombre": "nudo",
+          "tipo": "disco",
+          "material": "laton",
+          "diametro_mm": "70",
+          "espesor_mm": "1",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "nombre": "forro pie",
+          "tipo": "disco",
+          "material": "laton",
+          "diametro_mm": "110",
+          "espesor_mm": "0.6",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "nombre": "cordero estampado subir",
+          "tipo": "disco",
+          "material": "laton",
+          "diametro_mm": "200",
+          "espesor_mm": "0.5",
+          "cantidad": "2",
+          "unidad": "",
+          "notas": ""
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "estampador",
+          "tarea_material": "cortar 8 piezas de laton de 0.5 para ovalos y estampar los corderos",
+          "cantidad": "10",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "area": "platero",
+          "tarea_material": "cortar corderos y ovalos y soldar en copa y en sobrecopa soldar rosca",
+          "cantidad": "11",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "area": "pulidor ",
+          "tarea_material": "pulir, patear o dorar y dar brillo",
+          "cantidad": "",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "area": "platero",
+          "tarea_material": "montar caliz y terminar",
+          "cantidad": "",
+          "unidad": "",
+          "notas": ""
+        }
+      ]
     },
     "notes_ficha": ""
   },
