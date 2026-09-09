@@ -3551,5 +3551,26 @@
       "otros_materiales": []
     },
     "notes_ficha": ""
+  },
+  {
+    "id": "N66",
+    "ref": "N66",
+    "category": "Neocatecumenal",
+    "subcategory": null,
+    "name": "Cáliz Cordero Pequeño",
+    "description": "Caliz cordero pequeño en plateado y dorado",
+    "full_text": "Cáliz Cordero Pequeño Caliz cordero pequeño en plateado y dorado",
+    "page": null,
+    "images": [],
+    "notes_ficha": "",
+    "despiece": {
+      "peso_aprox_g": "",
+      "tiempo_estimado_horas": "",
+      "materiales_principales": "",
+      "precio_referencia": "",
+      "notas_generales": "",
+      "piezas": [],
+      "otros_materiales": []
+    }
   }
 ]
