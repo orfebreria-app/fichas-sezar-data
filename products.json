@@ -3396,13 +3396,42 @@
       "p51_N42_876.jpg"
     ],
     "despiece": {
-      "peso_aprox_g": "",
-      "tiempo_estimado_horas": "",
-      "materiales_principales": "",
-      "precio_referencia": "",
+      "peso_aprox_g": "500",
+      "tiempo_estimado_horas": "7",
+      "materiales_principales": "laton",
+      "precio_referencia": "545",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [
+        {
+          "area": "estampador",
+          "tarea_material": "cortar chapas y estampar",
+          "cantidad": "2",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "area": "estampador",
+          "tarea_material": "estempar canto y hacer cierres",
+          "cantidad": "3",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "area": "platero",
+          "tarea_material": "hacer la biblia",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "area": "pulidor",
+          "tarea_material": "pulir, platear y dar brillo",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        }
+      ]
     },
     "notes_ficha": ""
   },
