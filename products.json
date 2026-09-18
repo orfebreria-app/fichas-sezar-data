@@ -3164,8 +3164,34 @@
       "materiales_principales": "",
       "precio_referencia": "",
       "notas_generales": "",
-      "piezas": [],
-      "otros_materiales": []
+      "piezas": [
+        {
+          "nombre": "disco en chapa ",
+          "tipo": "disco",
+          "material": "laton o plata",
+          "diametro_mm": "340",
+          "espesor_mm": "1",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "pulidor",
+          "tarea_material": "pulir, platear o dorar y dar brillo",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "area": "grabador",
+          "tarea_material": "grabar con laser los peces",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        }
+      ]
     },
     "notes_ficha": ""
   },
