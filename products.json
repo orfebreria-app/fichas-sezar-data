@@ -3451,7 +3451,7 @@
     ],
     "despiece": {
       "peso_aprox_g": "500",
-      "tiempo_estimado_horas": "7",
+      "tiempo_estimado_horas": "8",
       "materiales_principales": "laton",
       "precio_referencia": "545",
       "notas_generales": "",
@@ -3459,33 +3459,44 @@
       "otros_materiales": [
         {
           "area": "estampador",
-          "tarea_material": "cortar chapas y estampar",
+          "tarea_material": "cortar chapas de 7 dm.y estampar",
           "cantidad": "2",
           "unidad": "",
-          "notas": ""
+          "notas": "",
+          "tiempo": "20"
         },
         {
           "area": "estampador",
-          "tarea_material": "estempar canto y hacer cierres",
+          "tarea_material": "estempar canto a 7 dm. y hacer cierres",
           "cantidad": "3",
           "unidad": "",
-          "notas": ""
+          "notas": "",
+          "tiempo": "20"
         },
         {
           "area": "platero",
           "tarea_material": "hacer la biblia",
           "cantidad": "1",
           "unidad": "",
-          "notas": ""
+          "notas": "",
+          "tiempo": "420"
         },
         {
           "area": "pulidor",
           "tarea_material": "pulir, platear y dar brillo",
           "cantidad": "1",
           "unidad": "",
-          "notas": ""
+          "notas": "",
+          "tiempo": "40"
         }
-      ]
+      ],
+      "tiempo_entallado": "0",
+      "tiempo_estampacion": "30 min.",
+      "tiempo_cincelado": "60 min",
+      "tiempo_montaje": "300 min.",
+      "tiempo_pulido": "40 min.",
+      "tiempo_banos": "20 min.",
+      "tiempo_acabado": "30 min."
     },
     "notes_ficha": ""
   },
