@@ -3410,18 +3410,42 @@
       "p51_N45_875.jpg"
     ],
     "despiece": {
-      "peso_aprox_g": "",
+      "peso_aprox_g": "700",
       "tiempo_estimado_horas": "8",
-      "materiales_principales": "",
-      "precio_referencia": "",
+      "materiales_principales": "laton",
+      "precio_referencia": "545",
       "notas_generales": "",
       "piezas": [],
       "otros_materiales": [
         {
           "area": "estampador",
           "tarea_material": "cortar chapas de 7dm. de tapas y estampar",
-          "tiempo": "",
+          "tiempo": "20",
           "cantidad": "2",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "area": "estampador ",
+          "tarea_material": "cortar chapa de 7 dm. y estampar canto y hacer cierres",
+          "tiempo": "20",
+          "cantidad": "3",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "area": "platero",
+          "tarea_material": "hacer la biblia y montarla",
+          "tiempo": "420 ",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "area": "pulidor",
+          "tarea_material": "pulir, platear y dar brillo",
+          "tiempo": "40",
+          "cantidad": "1",
           "unidad": "",
           "notas": ""
         }
