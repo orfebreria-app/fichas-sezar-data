@@ -3411,12 +3411,28 @@
     ],
     "despiece": {
       "peso_aprox_g": "",
-      "tiempo_estimado_horas": "",
+      "tiempo_estimado_horas": "8",
       "materiales_principales": "",
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [
+        {
+          "area": "estampador",
+          "tarea_material": "cortar chapas de 7dm. de tapas y estampar",
+          "tiempo": "",
+          "cantidad": "2",
+          "unidad": "",
+          "notas": ""
+        }
+      ],
+      "tiempo_entallado": "0",
+      "tiempo_estampacion": "30 min.",
+      "tiempo_cincelado": "60 min.",
+      "tiempo_montaje": "300 min.",
+      "tiempo_pulido": "40 min.",
+      "tiempo_banos": "20 min",
+      "tiempo_acabado": "30 min."
     },
     "notes_ficha": ""
   },
