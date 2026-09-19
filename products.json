@@ -3128,8 +3128,8 @@
     "ref": "N69",
     "category": "Neocatecumenal",
     "subcategory": "Cálices",
-    "name": "Disponible en plateado y dorado.",
-    "description": "15 cm. Alto - 20 cm. Diámetro. repujado y Patena fin del camino con ama- natu- tistas naturales incrustadas y moldura labrada. 32 cm. Diámetro.",
+    "name": "patena plato con piedras",
+    "description": "Patena fin del camino con ama- natu- tistas naturales incrustadas y moldura labrada. 32 cm. Diámetro.",
     "full_text": "Disponible en plateado y dorado. 15 cm. Alto - 20 cm. Diámetro. repujado y Patena fin del camino con ama- natu- tistas naturales incrustadas y moldura labrada. 32 cm. Diámetro.",
     "page": 48,
     "images": [
@@ -3142,7 +3142,14 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
     "notes_ficha": ""
   },
