@@ -3092,13 +3092,20 @@
     "despiece": {
       "peso_aprox_g": "",
       "tiempo_estimado_horas": "",
-      "materiales_principales": "",
+      "materiales_principales": "latón",
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
-    "notes_ficha": ""
+    "notes_ficha": "comprado en italia"
   },
   {
     "id": "N68",
