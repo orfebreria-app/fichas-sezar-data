@@ -3185,8 +3185,28 @@
       "materiales_principales": "latón",
       "precio_referencia": "",
       "notas_generales": "",
-      "piezas": [],
-      "otros_materiales": [],
+      "piezas": [
+        {
+          "nombre": "montador",
+          "tipo": "",
+          "material": "",
+          "diametro_mm": "",
+          "espesor_mm": "",
+          "cantidad": "",
+          "unidad": "",
+          "notas": ""
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "montador",
+          "tarea_material": "repasar ",
+          "tiempo": "",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": "lo pedimos fuera"
+        }
+      ],
       "tiempo_entallado": "",
       "tiempo_estampacion": "",
       "tiempo_cincelado": "",
