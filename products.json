@@ -3390,12 +3390,55 @@
     ],
     "despiece": {
       "peso_aprox_g": "",
-      "tiempo_estimado_horas": "",
-      "materiales_principales": "",
+      "tiempo_estimado_horas": "90",
+      "materiales_principales": "laton",
       "precio_referencia": "",
       "notas_generales": "",
-      "piezas": [],
-      "otros_materiales": []
+      "piezas": [
+        {
+          "nombre": "plato",
+          "tipo": "disco",
+          "material": "laton",
+          "diametro_mm": "23",
+          "espesor_mm": "1",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "platero",
+          "tarea_material": "hacer moldura  y soldar a eestaño",
+          "tiempo": "",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "area": "pulidor",
+          "tarea_material": "pulir, platear y dar brillo",
+          "tiempo": "",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "area": "grabado",
+          "tarea_material": "grabar peces a laser",
+          "tiempo": "",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        }
+      ],
+      "tiempo_entallado": "15",
+      "tiempo_estampacion": "0",
+      "tiempo_cincelado": "0",
+      "tiempo_montaje": "40",
+      "tiempo_pulido": "20",
+      "tiempo_banos": "10",
+      "tiempo_acabado": "5"
     },
     "notes_ficha": ""
   },
