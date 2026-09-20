@@ -3058,21 +3058,112 @@
     "ref": "N61",
     "category": "Neocatecumenal",
     "subcategory": "Cálices",
-    "name": "21 cm. Alto - 14 cm. Diámetro. Disponible en plateado y dorado.",
-    "description": "15 cm. Alto - 10 cm. Diámetro.",
+    "name": "Cáliz Presidencial Cordero y Pez",
+    "description": "21 cm. Alto - 14 cm. Diámetro. Disponible en plateado y dorado.",
     "full_text": "21 cm. Alto - 14 cm. Diámetro. Disponible en plateado y dorado. 15 cm. Alto - 10 cm. Diámetro.",
     "page": 48,
     "images": [
       "p48_N58_810.jpg"
     ],
     "despiece": {
-      "peso_aprox_g": "",
-      "tiempo_estimado_horas": "",
-      "materiales_principales": "",
+      "peso_aprox_g": "750",
+      "tiempo_estimado_horas": "300 min.",
+      "materiales_principales": "Laton y plata",
       "precio_referencia": "",
       "notas_generales": "",
-      "piezas": [],
-      "otros_materiales": []
+      "piezas": [
+        {
+          "nombre": "copa",
+          "tipo": "disco",
+          "material": "laton",
+          "diametro_mm": "",
+          "espesor_mm": "1.2",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "nombre": "sobrecopa",
+          "tipo": "disco",
+          "material": "laton",
+          "diametro_mm": "",
+          "espesor_mm": "1",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "nombre": "nudo",
+          "tipo": "disco",
+          "material": "laton",
+          "diametro_mm": "",
+          "espesor_mm": "1",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "nombre": "pie",
+          "tipo": "disco",
+          "material": "laton",
+          "diametro_mm": "",
+          "espesor_mm": "1",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "nombre": "forro pie",
+          "tipo": "disco",
+          "material": "laton",
+          "diametro_mm": "",
+          "espesor_mm": "0.8",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "estampador",
+          "tarea_material": "cortar chapas para cordero ",
+          "tiempo": "",
+          "cantidad": "2",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "area": "estampador",
+          "tarea_material": "cortar chapas para cabuchones y peces y hojas",
+          "tiempo": "",
+          "cantidad": "12",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "area": "platero",
+          "tarea_material": "soldar y montar cáliz",
+          "tiempo": "",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        },
+        {
+          "area": "pulidor",
+          "tarea_material": "pulir, platear o dorar y dar brillo",
+          "tiempo": "",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        }
+      ],
+      "tiempo_entallado": "30 min.",
+      "tiempo_estampacion": "40 min.",
+      "tiempo_cincelado": "0",
+      "tiempo_montaje": "160 min.",
+      "tiempo_pulido": "30 min.",
+      "tiempo_banos": "30  min.",
+      "tiempo_acabado": "10 min"
     },
     "notes_ficha": ""
   },
