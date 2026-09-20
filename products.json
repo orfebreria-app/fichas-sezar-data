@@ -3203,22 +3203,40 @@
     "category": "Neocatecumenal",
     "subcategory": "Cálices",
     "name": "Cáliz fin del camino",
-    "description": "cincelado con amatistas rales incrustadas. 25 cm. Alto - 14 cm. Diámetro.",
+    "description": "cincelado con amatistas reales incrustadas. 25 cm. Alto - 14 cm. Diámetro.",
     "full_text": "Cáliz fin del camino cincelado con amatistas rales incrustadas. 25 cm. Alto - 14 cm. Diámetro.",
     "page": 48,
     "images": [
       "p48_N62_811.jpg"
     ],
     "despiece": {
-      "peso_aprox_g": "",
-      "tiempo_estimado_horas": "",
-      "materiales_principales": "",
+      "peso_aprox_g": "1000",
+      "tiempo_estimado_horas": "900",
+      "materiales_principales": "lton y plata",
       "precio_referencia": "",
       "notas_generales": "",
-      "piezas": [],
-      "otros_materiales": []
+      "piezas": [
+        {
+          "nombre": "montador",
+          "tipo": "pieza",
+          "material": "laton",
+          "diametro_mm": "",
+          "espesor_mm": "",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": "el caliz viene hecho pedir al proveedor"
+        }
+      ],
+      "otros_materiales": [],
+      "tiempo_entallado": "100",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "200",
+      "tiempo_montaje": "400",
+      "tiempo_pulido": "100",
+      "tiempo_banos": "30",
+      "tiempo_acabado": "30"
     },
-    "notes_ficha": ""
+    "notes_ficha": "hecho en cordoba"
   },
   {
     "id": "N69",
