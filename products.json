@@ -3480,7 +3480,23 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [
+        {
+          "area": "montador",
+          "tarea_material": "",
+          "tiempo": "",
+          "cantidad": "1",
+          "unidad": "",
+          "notas": ""
+        }
+      ],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
     "notes_ficha": ""
   },
