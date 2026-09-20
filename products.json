@@ -3082,15 +3082,14 @@
     "category": "Neocatecumenal",
     "subcategory": "Cálices",
     "name": "Cáliz Dodecagonal.",
-    "description": "",
+    "description": "cáliz doce lados. plateado y dorado.",
     "full_text": "Cáliz Dodecagonal.",
     "page": 48,
     "images": [
-      "p48_N62_808.jpg",
-      "p48_N62_811.jpg"
+      "p48_N62_808.jpg"
     ],
     "despiece": {
-      "peso_aprox_g": "",
+      "peso_aprox_g": "400",
       "tiempo_estimado_horas": "",
       "materiales_principales": "latón",
       "precio_referencia": "",
