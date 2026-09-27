@@ -547,7 +547,7 @@
     "id": "1-0902",
     "ref": "1-0902",
     "category": "Cálices",
-    "subcategory": null,
+    "subcategory": "",
     "name": "Cáliz cincelado y repujado con cartela “AMO TE”.",
     "description": "Disponible en plateado y dorado y en plata de ley 925mm. 25 cm. Altura - 12 cm.",
     "full_text": "Cáliz cincelado y repujado con cartela “AMO TE”. Disponible en plateado y dorado y en plata de ley 925mm. 25 cm. Altura - 12 cm.",
@@ -564,9 +564,18 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "89",
+    "nombre_belloso": "Cáliz Amo TE"
   },
   {
     "id": "1-1702",
