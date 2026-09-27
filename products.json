@@ -984,14 +984,13 @@
     "id": "2-0802",
     "ref": "2-0802",
     "category": "Copones",
-    "subcategory": null,
-    "name": "con capacidad Copón cincelado con capacidad",
-    "description": "formas. y en plata de ley Disponible en plateado y dorado 925mm. 24 cm. Altura - 12,5 cm. Diámetro.",
+    "subcategory": "",
+    "name": "Copón cincelado",
+    "description": "Disponible en plateado y dorado 925mm. 24 cm. Altura - 12,5 cm. Diámetro.",
     "full_text": "con capacidad Copón cincelado con capacidad formas. y en plata de ley Disponible en plateado y dorado 925mm. 24 cm. Altura - 12,5 cm. Diámetro.",
     "page": 20,
     "images": [
-      "p20_2-0802_357.jpg",
-      "p20_2-0802_358.jpg"
+      "p20_2-0802_357.jpg"
     ],
     "despiece": {
       "peso_aprox_g": "",
@@ -1000,9 +999,18 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "57/1",
+    "nombre_belloso": "Copón cincelado"
   },
   {
     "id": "2-0402",
