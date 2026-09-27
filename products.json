@@ -353,7 +353,7 @@
     "id": "1-1802",
     "ref": "1-1802",
     "category": "Cálices",
-    "subcategory": null,
+    "subcategory": "",
     "name": "Cáliz cincelado con nudo hexagonal",
     "description": "con cordero. Disponible en plateado y dorado y en plata de ley de 925mm. 19 cm. Altura - 10,5 cm. Diámetro.",
     "full_text": "Cáliz cincelado con nudo hexagonal con cordero. Disponible en plateado y dorado y en plata de ley de 925mm. 19 cm. Altura - 10,5 cm. Diámetro.",
@@ -368,9 +368,18 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "2557",
+    "nombre_belloso": "Cáliz gótico cincelado con patena ref 12"
   },
   {
     "id": "1-2003",
