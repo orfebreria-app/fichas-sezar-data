@@ -268,7 +268,9 @@
       "piezas": [],
       "otros_materiales": []
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "40",
+    "nombre_belloso": "Cáliz con columna clásica ref 40"
   },
   {
     "id": "1-2202",
@@ -291,7 +293,9 @@
       "piezas": [],
       "otros_materiales": []
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "38",
+    "nombre_belloso": "Cáliz nudo Ángeles ref 38"
   },
   {
     "id": "1-2101",
@@ -435,7 +439,9 @@
       "piezas": [],
       "otros_materiales": []
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "17",
+    "nombre_belloso": "Cáliz liso nudo cilíndrico ref 17"
   },
   {
     "id": "1-0403",
@@ -458,7 +464,9 @@
       "piezas": [],
       "otros_materiales": []
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "14",
+    "nombre_belloso": "Cáliz clásico liso mod 14"
   },
   {
     "id": "1-0802",
@@ -481,7 +489,9 @@
       "piezas": [],
       "otros_materiales": []
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "20",
+    "nombre_belloso": "Cáliz cincelado espigas y racimos ref 20"
   },
   {
     "id": "1-1502",
@@ -536,7 +546,9 @@
       "piezas": [],
       "otros_materiales": []
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "24",
+    "nombre_belloso": "Cáliz martelé acabado artesanal ref 24"
   },
   {
     "id": "1-0502",
@@ -625,7 +637,9 @@
       "piezas": [],
       "otros_materiales": []
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "30",
+    "nombre_belloso": "Cáliz cruz nudo mármol ref 30"
   },
   {
     "id": "1-1902",
@@ -648,7 +662,9 @@
       "piezas": [],
       "otros_materiales": []
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "34",
+    "nombre_belloso": "Cáliz con medallón PAX ref 34"
   },
   {
     "id": "1-1603",
@@ -671,7 +687,9 @@
       "piezas": [],
       "otros_materiales": []
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "26",
+    "nombre_belloso": "Cáliz grabado al aguafuerte ref 26"
   },
   {
     "id": "1-1402",
@@ -694,7 +712,9 @@
       "piezas": [],
       "otros_materiales": []
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "25",
+    "nombre_belloso": "Cáliz cruces en relieve ref 25"
   },
   {
     "id": "1-2502",
@@ -717,7 +737,9 @@
       "piezas": [],
       "otros_materiales": []
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "44",
+    "nombre_belloso": "Cáliz liso nudo alabastro ref 44"
   },
   {
     "id": "1-2602",
@@ -740,7 +762,9 @@
       "piezas": [],
       "otros_materiales": []
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "46",
+    "nombre_belloso": "Cáliz martelé nudo alabastro ref 46"
   },
   {
     "id": "1-2603",
@@ -819,7 +843,9 @@
       "tiempo_banos": "",
       "tiempo_acabado": ""
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "50",
+    "nombre_belloso": "Cáliz pie martelé nudo alabastro o metálico ref 50"
   },
   {
     "id": "1-2402",
@@ -843,7 +869,9 @@
       "piezas": [],
       "otros_materiales": []
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "42",
+    "nombre_belloso": "Cáliz litúrgico nudo de alabastro ref 42"
   },
   {
     "id": "1-2702",
@@ -868,7 +896,9 @@
       "piezas": [],
       "otros_materiales": []
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "48",
+    "nombre_belloso": "Cáliz Evangelistas pie alabastro ref 48"
   },
   {
     "id": "1-2703",
@@ -1252,7 +1282,9 @@
       "piezas": [],
       "otros_materiales": []
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "59",
+    "nombre_belloso": "Copón cincelado cabujones ref 59"
   },
   {
     "id": "3-0202",
@@ -4067,6 +4099,2124 @@
       "notas_generales": "",
       "piezas": [],
       "otros_materiales": []
+    }
+  },
+  {
+    "id": "1-13P01",
+    "ref": "1-13P01",
+    "ref_web": "1-13P01",
+    "ref_belloso": "13P01",
+    "nombre_belloso": "Cáliz estilo gótico con patena ref 13P01",
+    "name": "Cáliz Estilo Gótico Repujado y Cincelado a Mano Mod. 1-13P01",
+    "category": "Cálices",
+    "subcategory": "Cálices Góticos",
+    "description": "Cáliz catedralicio de estilo gótico flamígero con subcopa calada en arquerías ojivales, nudo arquitectónico hexagonal con tracerías y base de seis lóbulos.",
+    "full_text": "Cáliz estilo Gótico 1-13p01 1-13P01 gótico calado tracerías flamígero peana estrellada seis lóbulos patena",
+    "page": 1,
+    "images": [
+      "1-13P01.jpg"
+    ],
+    "notes_ficha": "Pieza magistral de taller. Calado de tracerías góticas con segueta de pelo fino nº 0/3. Ensamblaje de doble copa roscada M8.",
+    "despiece": {
+      "peso_aprox_g": "680",
+      "tiempo_estimado_horas": "22",
+      "materiales_principales": "Plata de Ley 925 o Latón orfebrería con baño de oro fino de 24 quilates en interior de copa y patena",
+      "precio_referencia": "2450 €",
+      "notas_generales": "Construcción por módulos roscados con nervios de refuerzo en los lóbulos de la peana.",
+      "piezas": [
+        {
+          "nombre": "Copa interior en oro",
+          "material": "Plata 925 / Latón",
+          "proceso": "Entallado manual en torno y baño oro 24k"
+        },
+        {
+          "nombre": "Subcopa gótica calada",
+          "material": "Chapa de latón 1.2 mm",
+          "proceso": "Estampación de forma, calado manual de arquillos y cincelado de hojas góticas"
+        },
+        {
+          "nombre": "Nudo arquitectónico hexagonal",
+          "material": "Microfusión de latón",
+          "proceso": "Fundición a la cera perdida, limado, repaso a cincel y roscado interior"
+        },
+        {
+          "nombre": "Fuste prismático hexagonal",
+          "material": "Tubo estirado hexagonal",
+          "proceso": "Corte, fresado de encajes y pulido"
+        },
+        {
+          "nombre": "Peana estrellada polilobulada (6 lóbulos)",
+          "material": "Chapa latón 1.5 mm",
+          "proceso": "Estampación profunda en matriz, calado de perfiles y cincelado de escenas"
+        },
+        {
+          "nombre": "Patena lisa cóncava",
+          "material": "Plata de ley 925",
+          "proceso": "Entallado de disco y baño de oro 24k"
+        }
+      ],
+      "otros_materiales": [
+        "Espárrago roscado central M8 en acero inoxidable",
+        "Tuerca hexagonal con arandela de presión",
+        "Contrapeso de plomo fundido calibrado a 200g para estabilidad del cáliz"
+      ],
+      "tiempo_entallado": "3h",
+      "tiempo_estampacion": "2h",
+      "tiempo_cincelado": "10h",
+      "tiempo_montaje": "4h",
+      "tiempo_pulido": "2h",
+      "tiempo_banos": "1h",
+      "tiempo_acabado": "1h"
+    },
+    "notes": "Pieza destacada del catálogo web oficial. Solicitada explícitamente por el usuario."
+  },
+  {
+    "id": "CAL-1056",
+    "ref": "1-0056",
+    "ref_web": "1-0056",
+    "ref_belloso": "56",
+    "nombre_belloso": "Cáliz 56 liso clásico con nudo torneado ref 56",
+    "name": "Cáliz 56 Liso Clásico con Nudo Torneado",
+    "category": "Cálices",
+    "subcategory": "Cálices de Altar",
+    "description": "Cáliz litúrgico modelo 56 de silueta estilizada y líneas limpias, con nudo torneado macizo y base peraltada lisa. Copa interior dorada en oro fino de 24 quilates. Altura 23 cm.",
+    "full_text": "1-0056 1-056 CAL-1056 56 ref 56 belloso 56 Cáliz 56 Liso Clásico con Nudo Torneado liso torneado sobrio 23 cm Cálices Metal Belloso Sezar orfebreriareligiosa",
+    "page": 2,
+    "images": [],
+    "notes_ficha": "Acabado exterior pulido espejo impecable sin marcas de torno. Patena lisa torneada.",
+    "despiece": {
+      "peso_aprox_g": "490",
+      "tiempo_estimado_horas": "12",
+      "materiales_principales": "Plata 925, baño oro 24k",
+      "precio_referencia": "980 €",
+      "notas_generales": "Pieza de orfebrería pura con máxima exigencia en la calidad del torneado y pulido de superficies lisas.",
+      "piezas": [
+        {
+          "nombre": "Disco copa exterior lisa",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "135",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Entallado fino"
+        },
+        {
+          "nombre": "Copa interior dorada",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "120",
+          "espesor_mm": "1.0",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Dorado 3 micras"
+        },
+        {
+          "nombre": "Nudo macizo torneado",
+          "tipo": "torneado",
+          "material": "Plata 925",
+          "diametro_mm": "48",
+          "espesor_mm": "3.0",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Torneado a mano"
+        },
+        {
+          "nombre": "Base circular peraltada lisa",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "165",
+          "espesor_mm": "1.4",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Entallado continuo"
+        },
+        {
+          "nombre": "Disco patena lisa",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "155",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Pulido a espejo"
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "Entallado",
+          "tarea_material": "Entallado de copa y peana",
+          "cantidad": 3.5,
+          "unidad": "horas",
+          "notas": "Torno repujador"
+        },
+        {
+          "area": "Estampación",
+          "tarea_material": "Conformado y troquelado de virola base",
+          "cantidad": 0.35,
+          "unidad": "horas",
+          "notas": "Prensa"
+        },
+        {
+          "area": "Cincelado",
+          "tarea_material": "Fileteado y repaso de perfiles",
+          "cantidad": 1,
+          "unidad": "horas",
+          "notas": "Cincel de corte limpio"
+        },
+        {
+          "area": "Montaje",
+          "tarea_material": "Roscado y centrado axial",
+          "cantidad": 2,
+          "unidad": "horas",
+          "notas": "Varilla central inox"
+        },
+        {
+          "area": "Pulido",
+          "tarea_material": "Pulido a espejo de superficies planas y curvas",
+          "cantidad": 3,
+          "unidad": "horas",
+          "notas": "Pasta azul extrafina"
+        },
+        {
+          "area": "Galvanotecnia",
+          "tarea_material": "Baño galvánico de oro 24k en interior de copa",
+          "cantidad": 1,
+          "unidad": "servicio",
+          "notas": "Certificado"
+        },
+        {
+          "area": "Acabado",
+          "tarea_material": "Limpieza ultrasónica y empaque",
+          "cantidad": 0.5,
+          "unidad": "horas",
+          "notas": "Revisión óptica"
+        }
+      ],
+      "tiempo_entallado": "3h 30min",
+      "tiempo_estampacion": "20 min",
+      "tiempo_cincelado": "1h",
+      "tiempo_montaje": "2h",
+      "tiempo_pulido": "3h",
+      "tiempo_banos": "1h",
+      "tiempo_acabado": "30 min"
+    }
+  },
+  {
+    "id": "CAL-1058",
+    "ref": "1-0058",
+    "ref_web": "1-0058",
+    "ref_belloso": "58",
+    "nombre_belloso": "Cáliz 58 con esmaltes sobrepuestos ref 58",
+    "name": "Cáliz 58 con Esmaltes Sobrepuestos",
+    "category": "Cálices",
+    "subcategory": "Cálices de Altar",
+    "description": "Cáliz modelo 58 de inspiración románico-bizantina con medallones de esmalte fino sobrepuestos al fuego y cabujones incrustados en la peana octogonal y el nudo esférico. Copa de plata con baño galvánico de oro fino 24k. Altura 24 cm.",
+    "full_text": "1-0058 1-058 CAL-1058 58 ref 58 belloso 58 Cáliz 58 con Esmaltes Sobrepuestos esmaltes cabujones romanico bizantino 24 cm Cálices Metal Belloso Sezar orfebreriareligiosa",
+    "page": 2,
+    "images": [],
+    "notes_ficha": "Montaje de esmaltes tras el pulido final y baño de oro. Fijación en frío con pestañas de engaste.",
+    "despiece": {
+      "peso_aprox_g": "610",
+      "tiempo_estimado_horas": "20",
+      "materiales_principales": "Plata de ley 925, esmaltes al fuego cloisonné, cabujones, oro 24k",
+      "precio_referencia": "1.520 €",
+      "notas_generales": "4 cartelas con esmaltes de los Evangelistas y 4 cabujones de ágata roja en peana.",
+      "piezas": [
+        {
+          "nombre": "Disco copa exterior",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "135",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Entallado clásico"
+        },
+        {
+          "nombre": "Copa interior sobredorada",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "120",
+          "espesor_mm": "1.0",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Oro 24k electrolítico"
+        },
+        {
+          "nombre": "Peana octogonal con bocas para esmalte",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "172",
+          "espesor_mm": "1.5",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Fresado de cajas de esmaltes"
+        },
+        {
+          "nombre": "Nudo esférico con engastes",
+          "tipo": "fundición",
+          "material": "Plata 925",
+          "diametro_mm": "55",
+          "espesor_mm": "2.0",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Engaste de 4 piedras"
+        },
+        {
+          "nombre": "Medallones de esmalte al fuego",
+          "tipo": "esmaltado",
+          "material": "Cobre esmaltado",
+          "diametro_mm": "25",
+          "espesor_mm": "1.0",
+          "cantidad": 4,
+          "unidad": "ud",
+          "notas": "Cocción a 820°C"
+        },
+        {
+          "nombre": "Disco patena lisa",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "160",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Torneada con ala peraltada"
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "Entallado",
+          "tarea_material": "Conformado de copa y base octogonal",
+          "cantidad": 3,
+          "unidad": "horas",
+          "notas": "Torno repujador"
+        },
+        {
+          "area": "Estampación",
+          "tarea_material": "Estampado de virolas y cajas de engaste",
+          "cantidad": 0.75,
+          "unidad": "horas",
+          "notas": "Troquelería fina"
+        },
+        {
+          "area": "Cincelado",
+          "tarea_material": "Cincelado de bordes moldurados y perlas",
+          "cantidad": 6,
+          "unidad": "horas",
+          "notas": "Cinceles de trazo"
+        },
+        {
+          "area": "Montaje",
+          "tarea_material": "Engaste de esmaltes y cabujones, armado general",
+          "cantidad": 4,
+          "unidad": "horas",
+          "notas": "Fijación cuidadosa"
+        },
+        {
+          "area": "Pulido",
+          "tarea_material": "Pulido selectivo previo al engaste",
+          "cantidad": 2.5,
+          "unidad": "horas",
+          "notas": "Pasta de alto brillo"
+        },
+        {
+          "area": "Galvanotecnia",
+          "tarea_material": "Dorado de copa y patena, plateado de fuste",
+          "cantidad": 1,
+          "unidad": "servicio",
+          "notas": "Baño electrolítico"
+        },
+        {
+          "area": "Acabado",
+          "tarea_material": "Limpieza final en frío de esmaltes y revisión",
+          "cantidad": 0.75,
+          "unidad": "horas",
+          "notas": "Control de calidad"
+        }
+      ],
+      "tiempo_entallado": "3h",
+      "tiempo_estampacion": "45 min",
+      "tiempo_cincelado": "6h",
+      "tiempo_montaje": "4h",
+      "tiempo_pulido": "2h 30min",
+      "tiempo_banos": "1h",
+      "tiempo_acabado": "45 min"
+    }
+  },
+  {
+    "id": "CAL-1062",
+    "ref": "1-0062",
+    "ref_web": "1-0062",
+    "ref_belloso": "62",
+    "nombre_belloso": "Cáliz 62 AMO TE cincelado con patena ref 62",
+    "name": "Cáliz 62 AMO TE Cincelado con Patena",
+    "category": "Cálices",
+    "subcategory": "Cálices de Altar",
+    "description": "Cáliz litúrgico modelo 62 con inscripción eucarística \"AMO TE\" cincelada a mano en relieve sobre la subcopa y fuste. Realizado en plata de ley 925 con copa interior bañada en oro fino de 24 quilates. Peana con molduras peraltadas y patena a juego con cruz grabada. Altura 24 cm.",
+    "full_text": "1-0062 1-062 CAL-1062 62 ref 62 belloso 62 Cáliz 62 AMO TE Cincelado con Patena AMO TE plata de ley 925 oro fino 24k 24 cm Cálices Metal Belloso Sezar orfebreriareligiosa",
+    "page": 2,
+    "images": [],
+    "notes_ficha": "Prestar atención al centrado de la inscripción \"AMO TE\" respecto a la cruz frontal de la peana. Ajustar rosca M8.",
+    "despiece": {
+      "peso_aprox_g": "590",
+      "tiempo_estimado_horas": "18",
+      "materiales_principales": "Plata de ley 925, baño de oro fino 24k",
+      "precio_referencia": "1.380 €",
+      "notas_generales": "Inscripción AMO TE con fondo picado mate y letras pulidas en relieve brillante.",
+      "piezas": [
+        {
+          "nombre": "Disco copa exterior",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "140",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Entallado sobre mandril cónico"
+        },
+        {
+          "nombre": "Disco subcopa repujada AMO TE",
+          "tipo": "disco calado",
+          "material": "Plata 925",
+          "diametro_mm": "130",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Inscripción eucarística cincelada"
+        },
+        {
+          "nombre": "Copa interior sobredorada",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "125",
+          "espesor_mm": "1.0",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Dorado galvánico 3 micras oro 24k"
+        },
+        {
+          "nombre": "Nudo cilíndrico torneado con cartelas",
+          "tipo": "fundición / torneado",
+          "material": "Plata 925",
+          "diametro_mm": "52",
+          "espesor_mm": "2.0",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Roscado M8 interior"
+        },
+        {
+          "nombre": "Peana moldurada escalonada",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "175",
+          "espesor_mm": "1.5",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Estampado de moldura y repujado de cruz"
+        },
+        {
+          "nombre": "Disco patena lisa con cruz",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "160",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Grabado de cruz patada central"
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "Entallado",
+          "tarea_material": "Conformado de copa, subcopa y base en torno",
+          "cantidad": 3.5,
+          "unidad": "horas",
+          "notas": "Ajuste preciso de las dos copas concéntricas"
+        },
+        {
+          "area": "Estampación",
+          "tarea_material": "Estampado en prensa de las molduras de peana",
+          "cantidad": 0.75,
+          "unidad": "horas",
+          "notas": "Troquel y matriz modelo 62"
+        },
+        {
+          "area": "Cincelado",
+          "tarea_material": "Cincelado a mano letrero AMO TE y fondo picado",
+          "cantidad": 7,
+          "unidad": "horas",
+          "notas": "Sobre pez vegetal de orfebre"
+        },
+        {
+          "area": "Montaje",
+          "tarea_material": "Ensamblaje, roscado de varilla central y plomado",
+          "cantidad": 3,
+          "unidad": "horas",
+          "notas": "Alineación vertical rigurosa"
+        },
+        {
+          "area": "Pulido",
+          "tarea_material": "Desbaste de aristas y brillo espejo",
+          "cantidad": 2.5,
+          "unidad": "horas",
+          "notas": "Pasta Dialux blanca y azul"
+        },
+        {
+          "area": "Galvanotecnia",
+          "tarea_material": "Baño de oro 24k para copa interior y patena",
+          "cantidad": 1,
+          "unidad": "servicio",
+          "notas": "3 micras de espesor certificado"
+        },
+        {
+          "area": "Acabado",
+          "tarea_material": "Limpieza ultrasónica, barniz protector peana y control",
+          "cantidad": 0.5,
+          "unidad": "horas",
+          "notas": "Verificación final"
+        }
+      ],
+      "tiempo_entallado": "3h 30min",
+      "tiempo_estampacion": "45 min",
+      "tiempo_cincelado": "7h",
+      "tiempo_montaje": "3h",
+      "tiempo_pulido": "2h 30min",
+      "tiempo_banos": "1h",
+      "tiempo_acabado": "30 min"
+    }
+  },
+  {
+    "id": "CAL-1064",
+    "ref": "1-0064",
+    "ref_web": "1-0064",
+    "ref_belloso": "64",
+    "nombre_belloso": "Cáliz 64 cincelado símbolos pasionistas ref 64",
+    "name": "Cáliz 64 Cincelado con Símbolos Pasionistas",
+    "category": "Cálices",
+    "subcategory": "Cálices de Altar",
+    "description": "Cáliz modelo 64 con cartelas cinceladas al detalle con los atributos de la Pasión de Cristo en el pie lobulado y nudo calado. Copa con subcopa cincelada y sobredorada. Altura 25 cm.",
+    "full_text": "1-0064 1-064 CAL-1064 64 ref 64 belloso 64 Cáliz 64 Cincelado con Símbolos Pasionistas pasion calvario cruz clavos corona espinas 25 cm Cálices Metal Belloso Sezar orfebreriareligiosa",
+    "page": 2,
+    "images": [],
+    "notes_ficha": "Cincelado al aguafuerte y pez de orfebre. Verificar detalles de los clavos y corona de espinas.",
+    "despiece": {
+      "peso_aprox_g": "570",
+      "tiempo_estimado_horas": "18",
+      "materiales_principales": "Plata 925, baño oro 24k",
+      "precio_referencia": "1.320 €",
+      "notas_generales": "Medallones de la Pasión: Cruz con sudario, clavos y tenazas, columna de flagelación, corona de espinas.",
+      "piezas": [
+        {
+          "nombre": "Disco copa exterior",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "135",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Entallado"
+        },
+        {
+          "nombre": "Subcopa pasionista cincelada",
+          "tipo": "disco calado",
+          "material": "Plata 925",
+          "diametro_mm": "128",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Relieve fino"
+        },
+        {
+          "nombre": "Copa interior sobredorada",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "120",
+          "espesor_mm": "1.0",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Oro 24k"
+        },
+        {
+          "nombre": "Nudo calado arquitectónico",
+          "tipo": "fundición y calado",
+          "material": "Plata 925",
+          "diametro_mm": "52",
+          "espesor_mm": "2.0",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Tracerías"
+        },
+        {
+          "nombre": "Peana 4 medallones Pasión",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "172",
+          "espesor_mm": "1.5",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Cincelado a mano"
+        },
+        {
+          "nombre": "Disco patena lisa con cruz pasionista",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "158",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Grabado a buril"
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "Entallado",
+          "tarea_material": "Conformado de copas y peana",
+          "cantidad": 3,
+          "unidad": "horas",
+          "notas": "Torno repujador"
+        },
+        {
+          "area": "Estampación",
+          "tarea_material": "Troquelado de molduras y perfilado de cartelas",
+          "cantidad": 0.65,
+          "unidad": "horas",
+          "notas": "Troquel nº 64"
+        },
+        {
+          "area": "Cincelado",
+          "tarea_material": "Cincelado de medallones pasionistas",
+          "cantidad": 7,
+          "unidad": "horas",
+          "notas": "Pez de orfebre"
+        },
+        {
+          "area": "Montaje",
+          "tarea_material": "Ensamblaje, roscado y ajuste de varilla",
+          "cantidad": 2.75,
+          "unidad": "horas",
+          "notas": "Alineación vertical"
+        },
+        {
+          "area": "Pulido",
+          "tarea_material": "Pulido manual y satinado de cartelas",
+          "cantidad": 2.5,
+          "unidad": "horas",
+          "notas": "Cepillo suave"
+        },
+        {
+          "area": "Galvanotecnia",
+          "tarea_material": "Baño electrolítico de oro 24k",
+          "cantidad": 1,
+          "unidad": "servicio",
+          "notas": "Interior copa y patena"
+        },
+        {
+          "area": "Acabado",
+          "tarea_material": "Control final y embalaje en estuche",
+          "cantidad": 0.5,
+          "unidad": "horas",
+          "notas": "Taller Sezar"
+        }
+      ],
+      "tiempo_entallado": "3h",
+      "tiempo_estampacion": "40 min",
+      "tiempo_cincelado": "7h",
+      "tiempo_montaje": "2h 45min",
+      "tiempo_pulido": "2h 30min",
+      "tiempo_banos": "1h",
+      "tiempo_acabado": "30 min"
+    }
+  },
+  {
+    "id": "CAL-1075",
+    "ref": "1-0075",
+    "ref_web": "1-0075",
+    "ref_belloso": "75",
+    "nombre_belloso": "Cáliz 75 repujado de plata con patena ref 75",
+    "name": "Cáliz 75 Repujado con Patena",
+    "category": "Cálices",
+    "subcategory": "Cálices de Altar",
+    "description": "Cáliz modelo 75 con profusa ornamentación repujada de motivos vegetales, racimos de uva y espigas de trigo en relieve sobre la base y el cuerpo de la copa. Copa interior sobredorada. Altura 24 cm.",
+    "full_text": "1-0075 1-075 CAL-1075 75 ref 75 belloso 75 Cáliz 75 Repujado con Patena uvas espigas racimos plata oro 24k 24 cm Cálices Metal Belloso Sezar orfebreriareligiosa",
+    "page": 2,
+    "images": [],
+    "notes_ficha": "Repujado de racimos en alto relieve; comprobar que no queden zonas debilitadas en el recocido de plata.",
+    "despiece": {
+      "peso_aprox_g": "580",
+      "tiempo_estimado_horas": "19",
+      "materiales_principales": "Plata 925 y baño oro 24k",
+      "precio_referencia": "1.340 €",
+      "notas_generales": "Racimos de uva cincelados con textura granular y hojas de parra envolventes.",
+      "piezas": [
+        {
+          "nombre": "Disco copa exterior repujada",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "138",
+          "espesor_mm": "1.3",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Conformado y recocido"
+        },
+        {
+          "nombre": "Copa interior sobredorada",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "122",
+          "espesor_mm": "1.0",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Baño oro fino 24k"
+        },
+        {
+          "nombre": "Base repujada racimos",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "178",
+          "espesor_mm": "1.5",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Alto relieve"
+        },
+        {
+          "nombre": "Nudo vegetal labrado",
+          "tipo": "fundición y cincelado",
+          "material": "Plata 925",
+          "diametro_mm": "54",
+          "espesor_mm": "2.0",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Hojas de acanto"
+        },
+        {
+          "nombre": "Disco patena lisa con cruz",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "158",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Borde torneado"
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "Entallado",
+          "tarea_material": "Entallado de copa y base en torno",
+          "cantidad": 3.25,
+          "unidad": "horas",
+          "notas": "Verificar perfiles"
+        },
+        {
+          "area": "Estampación",
+          "tarea_material": "Estampado previo de hojas y perfiles de base",
+          "cantidad": 0.5,
+          "unidad": "horas",
+          "notas": "Prensa de balancín"
+        },
+        {
+          "area": "Cincelado",
+          "tarea_material": "Cincelado de racimos y espigas sobre pez",
+          "cantidad": 7.5,
+          "unidad": "horas",
+          "notas": "Cinceles de embutir y trazar"
+        },
+        {
+          "area": "Montaje",
+          "tarea_material": "Ensamblaje mecánico y roscado M8",
+          "cantidad": 3,
+          "unidad": "horas",
+          "notas": "Alineación vertical"
+        },
+        {
+          "area": "Pulido",
+          "tarea_material": "Brillo espejo y matizado de fondos",
+          "cantidad": 2.5,
+          "unidad": "horas",
+          "notas": "Cepillo de cerda y trapo"
+        },
+        {
+          "area": "Galvanotecnia",
+          "tarea_material": "Dorado galvánico 24k interior copa y patena",
+          "cantidad": 1,
+          "unidad": "servicio",
+          "notas": "3 micras"
+        },
+        {
+          "area": "Acabado",
+          "tarea_material": "Lavado y control dimensional",
+          "cantidad": 0.5,
+          "unidad": "horas",
+          "notas": "Taller Sezar"
+        }
+      ],
+      "tiempo_entallado": "3h 15min",
+      "tiempo_estampacion": "30 min",
+      "tiempo_cincelado": "7h 30min",
+      "tiempo_montaje": "3h",
+      "tiempo_pulido": "2h 30min",
+      "tiempo_banos": "1h",
+      "tiempo_acabado": "30 min"
+    }
+  },
+  {
+    "id": "CAL-1081",
+    "ref": "1-0081",
+    "ref_web": "1-0081",
+    "ref_belloso": "81",
+    "nombre_belloso": "Cáliz 81 cincelado espigas y racimos ref 81",
+    "name": "Cáliz 81 Cincelado Espigas y Racimos",
+    "category": "Cálices",
+    "subcategory": "Cálices de Altar",
+    "description": "Cáliz clásico modelo 81 cincelado a mano con racimos de vid y espigas de trigo en relieve sobre la peana escalonada y la subcopa calada. Copa interior sobredorada en oro fino de 24k. Altura 24 cm.",
+    "full_text": "1-0081 1-081 CAL-1081 81 ref 81 belloso 81 Cáliz 81 Cincelado Espigas y Racimos espigas trigo racimos vid 24 cm Cálices Metal Belloso Sezar orfebreriareligiosa",
+    "page": 2,
+    "images": [],
+    "notes_ficha": "Troquel nº 81 para perfilado de subcopa. Repaso de aristas con lima fina.",
+    "despiece": {
+      "peso_aprox_g": "530",
+      "tiempo_estimado_horas": "16",
+      "materiales_principales": "Plata 925, baño oro 24k",
+      "precio_referencia": "1.220 €",
+      "notas_generales": "Composición armónica tradicional de motivos eucarísticos.",
+      "piezas": [
+        {
+          "nombre": "Disco copa exterior",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "135",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Entallado"
+        },
+        {
+          "nombre": "Subcopa calada espigas",
+          "tipo": "disco calado",
+          "material": "Plata 925",
+          "diametro_mm": "128",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Calado manual con segueta"
+        },
+        {
+          "nombre": "Copa interior sobredorada",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "120",
+          "espesor_mm": "1.0",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Oro 24k"
+        },
+        {
+          "nombre": "Nudo jónico cincelado",
+          "tipo": "fundición",
+          "material": "Plata 925",
+          "diametro_mm": "50",
+          "espesor_mm": "2.0",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Torneado"
+        },
+        {
+          "nombre": "Base escalonada con espigas",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "168",
+          "espesor_mm": "1.4",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Repujado fino"
+        },
+        {
+          "nombre": "Disco patena lisa",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "155",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Cruz grabada"
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "Entallado",
+          "tarea_material": "Conformado en torno de copa y base",
+          "cantidad": 3,
+          "unidad": "horas",
+          "notas": "Torno repujador"
+        },
+        {
+          "area": "Estampación",
+          "tarea_material": "Estampado de nervaduras de espigas",
+          "cantidad": 0.5,
+          "unidad": "horas",
+          "notas": "Balancín mecánico"
+        },
+        {
+          "area": "Cincelado",
+          "tarea_material": "Cincelado y calado de espigas y racimos",
+          "cantidad": 6,
+          "unidad": "horas",
+          "notas": "Cinceles y segueta de joyero"
+        },
+        {
+          "area": "Montaje",
+          "tarea_material": "Armado y ajuste de piezas",
+          "cantidad": 2.5,
+          "unidad": "horas",
+          "notas": "Varilla roscada"
+        },
+        {
+          "area": "Pulido",
+          "tarea_material": "Desbaste y brillo final",
+          "cantidad": 2,
+          "unidad": "horas",
+          "notas": "Pasta Dialux"
+        },
+        {
+          "area": "Galvanotecnia",
+          "tarea_material": "Baño electrolítico de oro 24k",
+          "cantidad": 1,
+          "unidad": "servicio",
+          "notas": "Interior copa y patena"
+        },
+        {
+          "area": "Acabado",
+          "tarea_material": "Verificación y limpieza ultrasónica",
+          "cantidad": 0.5,
+          "unidad": "horas",
+          "notas": "Control Sezar"
+        }
+      ],
+      "tiempo_entallado": "3h",
+      "tiempo_estampacion": "30 min",
+      "tiempo_cincelado": "6h",
+      "tiempo_montaje": "2h 30min",
+      "tiempo_pulido": "2h",
+      "tiempo_banos": "1h",
+      "tiempo_acabado": "30 min"
+    }
+  },
+  {
+    "id": "CAL-1088",
+    "ref": "1-0088",
+    "ref_web": "1-0088",
+    "ref_belloso": "88-1",
+    "nombre_belloso": "Cáliz 88-1 cincelado flor de lis ref 88-1",
+    "name": "Cáliz 88-1 Cincelado Flor de Lis",
+    "category": "Cálices",
+    "subcategory": "Cálices de Altar",
+    "description": "Cáliz artesanal modelo 88-1 repujado a mano en plata de ley 925 / metal plateado con copa dorada interior en oro fino de 24k. Decoración floral y cartelas con flor de lis en peana lobulada y nudo esférico. Altura 24 cm.",
+    "full_text": "1-0088 1-088-1 CAL-1088 88-1 ref 88-1 belloso 88-1 Cáliz 88-1 Cincelado Flor de Lis flor de lis plata 925 oro 24k 24 cm Cálices Metal Belloso Sezar orfebreriareligiosa",
+    "page": 2,
+    "images": [],
+    "notes_ficha": "Matriz de estampación nº 88-B para las flores de lis perimetrales. Cincelado fino posterior sobre pez.",
+    "despiece": {
+      "peso_aprox_g": "560",
+      "tiempo_estimado_horas": "17",
+      "materiales_principales": "Plata de ley 925 / latón plateado, baño oro 24k",
+      "precio_referencia": "1.290 €",
+      "notas_generales": "Flores de lis en altorrelieve en los 6 lóbulos de la base.",
+      "piezas": [
+        {
+          "nombre": "Disco copa exterior",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "135",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Entallado cónico"
+        },
+        {
+          "nombre": "Copa interior sobredorada",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "120",
+          "espesor_mm": "1.0",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Dorado electrolítico interior"
+        },
+        {
+          "nombre": "Peana 6 lóbulos flor de lis",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "170",
+          "espesor_mm": "1.4",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Repujado y cincelado"
+        },
+        {
+          "nombre": "Nudo con esferas y perlas",
+          "tipo": "fundición",
+          "material": "Plata 925",
+          "diametro_mm": "50",
+          "espesor_mm": "2.0",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Torneado y repaso de perlas"
+        },
+        {
+          "nombre": "Disco patena lisa",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "155",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Cruz central grabada a buril"
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "Entallado",
+          "tarea_material": "Conformado de copa y base",
+          "cantidad": 3,
+          "unidad": "horas",
+          "notas": "Torno repujador"
+        },
+        {
+          "area": "Estampación",
+          "tarea_material": "Estampado de flores de lis y cartelas",
+          "cantidad": 0.65,
+          "unidad": "horas",
+          "notas": "Matriz 88-B"
+        },
+        {
+          "area": "Cincelado",
+          "tarea_material": "Repujado y cincelado de motivos florales",
+          "cantidad": 6.5,
+          "unidad": "horas",
+          "notas": "Cinceles finos de trazo y mateador"
+        },
+        {
+          "area": "Montaje",
+          "tarea_material": "Roscado de piezas, tubuladura y varilla de acero inox",
+          "cantidad": 2.75,
+          "unidad": "horas",
+          "notas": "Alineado axial"
+        },
+        {
+          "area": "Pulido",
+          "tarea_material": "Lijado fino y abrillantado",
+          "cantidad": 2.5,
+          "unidad": "horas",
+          "notas": "Cepillos de algodón y pasta blanca"
+        },
+        {
+          "area": "Galvanotecnia",
+          "tarea_material": "Baño de oro 24k en copa y baño de plata en cuerpo",
+          "cantidad": 1,
+          "unidad": "servicio",
+          "notas": "Garantía de adherencia"
+        },
+        {
+          "area": "Acabado",
+          "tarea_material": "Protección y verificación",
+          "cantidad": 0.5,
+          "unidad": "horas",
+          "notas": "Empaque taller"
+        }
+      ],
+      "tiempo_entallado": "3h",
+      "tiempo_estampacion": "40 min",
+      "tiempo_cincelado": "6h 30min",
+      "tiempo_montaje": "2h 45min",
+      "tiempo_pulido": "2h 30min",
+      "tiempo_banos": "1h",
+      "tiempo_acabado": "35 min"
+    }
+  },
+  {
+    "id": "1-0302",
+    "ref": "1-0302",
+    "ref_web": "1-0302",
+    "ref_belloso": "12",
+    "nombre_belloso": "Cáliz gótico cincelado con patena ref 12",
+    "name": "Cáliz Cincelado a Mano con Patena Mod. 1-0302",
+    "category": "Cálices",
+    "subcategory": "Cálices Cincelados",
+    "description": "Cáliz cincelado a mano en plata de ley o latón sobredorado con patena clásica. Decoración floral y vegetal de orfebrería sacra tradicional.",
+    "full_text": "Cáliz cincelado a mano mod 1-0302 ref 12 belloso copa dorada subcopa labrada patena litúrgica",
+    "page": 1,
+    "images": [
+      "1-0302.jpg"
+    ],
+    "notes_ficha": "Verificar engastes de los cabujones de esmalte al fuego tras el baño de oro fino 24k.",
+    "despiece": {
+      "peso_aprox_g": "540",
+      "tiempo_estimado_horas": "18",
+      "materiales_principales": "Plata de Ley 925 o Latón orfebrería, baño de oro 24k en copa interior y patena",
+      "precio_referencia": "1850 €",
+      "notas_generales": "Cáliz cincelado a mano con alta definición en hojas de acanto y cartelas.",
+      "piezas": [
+        {
+          "nombre": "Copa interior dorada",
+          "material": "Plata 925 / Latón dorado",
+          "proceso": "Entallado y pulido espejo"
+        },
+        {
+          "nombre": "Subcopa cincelada",
+          "material": "Chapa latón 1.2mm",
+          "proceso": "Cincelado y repujado a mano"
+        },
+        {
+          "nombre": "Nudo torneado y cincelado",
+          "material": "Latón fundición / barra",
+          "proceso": "Torneado y labrado"
+        },
+        {
+          "nombre": "Peana moldurada",
+          "material": "Chapa estampada 1mm",
+          "proceso": "Estampación y repaso de cincel"
+        },
+        {
+          "nombre": "Patena lisa clásica",
+          "material": "Plata 925 / Latón dorado",
+          "proceso": "Entallado y baño de oro 24k"
+        }
+      ],
+      "otros_materiales": [
+        "Varilla roscada M8 latón",
+        "Tuerca fijación base",
+        "Plomo contrapeso peana 150g"
+      ],
+      "tiempo_entallado": "2h 30m",
+      "tiempo_estampacion": "1h",
+      "tiempo_cincelado": "8h",
+      "tiempo_montaje": "3h",
+      "tiempo_pulido": "2h",
+      "tiempo_banos": "1h",
+      "tiempo_acabado": "30m"
+    },
+    "notes": "Ficha oficial catálogo web. Compatible con ref. 12 Belloso."
+  },
+  {
+    "id": "CAL-1507",
+    "ref": "1-0507",
+    "ref_web": "1-0507",
+    "ref_belloso": "507",
+    "nombre_belloso": "Cáliz juego 507 a juego con copón ref 507",
+    "name": "Cáliz y Juego Litúrgico 507",
+    "category": "Cálices",
+    "subcategory": "Cálices de Altar",
+    "description": "Cáliz modelo 507 concebido como juego eucarístico coordinado con el Copón 507. Decoración cincelada geométrica en nudo y peana, cruz central en relieve y copa sobredorada. Altura 24 cm.",
+    "full_text": "1-0507 CAL-1507 507 ref 507 belloso 507 Cáliz y Juego Litúrgico 507 juego coordinado copon 507 24 cm Cálices Metal Belloso Sezar orfebreriareligiosa",
+    "page": 2,
+    "images": [],
+    "notes_ficha": "Coordinar acabados de tono de baño si se fabrica junto al Copón 507.",
+    "despiece": {
+      "peso_aprox_g": "520",
+      "tiempo_estimado_horas": "15",
+      "materiales_principales": "Plata de ley 925 / latón dorado",
+      "precio_referencia": "1.180 €",
+      "notas_generales": "Diseñado para hacer juego exacto con el Copón 507.",
+      "piezas": [
+        {
+          "nombre": "Disco copa exterior",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "135",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Entallado"
+        },
+        {
+          "nombre": "Copa interior sobredorada",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "120",
+          "espesor_mm": "1.0",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Oro 24k"
+        },
+        {
+          "nombre": "Nudo geométrico facetado",
+          "tipo": "fundición",
+          "material": "Plata 925",
+          "diametro_mm": "50",
+          "espesor_mm": "2.0",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Facetas repasadas a lima"
+        },
+        {
+          "nombre": "Peana circular juego 507",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "170",
+          "espesor_mm": "1.4",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Moldurada con cruz"
+        },
+        {
+          "nombre": "Disco patena lisa",
+          "tipo": "disco",
+          "material": "Plata 925",
+          "diametro_mm": "155",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Con cruz grabada"
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "Entallado",
+          "tarea_material": "Conformado de copa y peana",
+          "cantidad": 3,
+          "unidad": "horas",
+          "notas": "Torno repujador"
+        },
+        {
+          "area": "Estampación",
+          "tarea_material": "Estampado de moldura geométrica",
+          "cantidad": 0.5,
+          "unidad": "horas",
+          "notas": "Prensa balancín"
+        },
+        {
+          "area": "Cincelado",
+          "tarea_material": "Cincelado de facetas y cruz",
+          "cantidad": 5,
+          "unidad": "horas",
+          "notas": "Cinceles planos"
+        },
+        {
+          "area": "Montaje",
+          "tarea_material": "Ensamblaje y varilla central",
+          "cantidad": 2.5,
+          "unidad": "horas",
+          "notas": "Alineación"
+        },
+        {
+          "area": "Pulido",
+          "tarea_material": "Pulido y abrillantado",
+          "cantidad": 2,
+          "unidad": "horas",
+          "notas": "Dialux"
+        },
+        {
+          "area": "Galvanotecnia",
+          "tarea_material": "Dorado de copa interior y patena",
+          "cantidad": 1,
+          "unidad": "servicio",
+          "notas": "Oro 24k"
+        },
+        {
+          "area": "Acabado",
+          "tarea_material": "Control de calidad y embalaje",
+          "cantidad": 0.5,
+          "unidad": "horas",
+          "notas": "Sezar"
+        }
+      ],
+      "tiempo_entallado": "3h",
+      "tiempo_estampacion": "30 min",
+      "tiempo_cincelado": "5h",
+      "tiempo_montaje": "2h 30min",
+      "tiempo_pulido": "2h",
+      "tiempo_banos": "1h",
+      "tiempo_acabado": "30 min"
+    }
+  },
+  {
+    "id": "1-2002",
+    "ref": "1-2002",
+    "ref_belloso": "35",
+    "nombre_belloso": "Cáliz Santo Grial de Valencia ref 35",
+    "name": "Cáliz Réplica Santo Grial Mod. 1-2002",
+    "category": "Cálices",
+    "subcategory": "Cálices Especiales",
+    "description": "Inspirado en el célebre Santo Cáliz de la Catedral de Valencia, con cuenco de ágata/metal dorado, asas enjoyadas y base invertida con cabujones y perlas.",
+    "full_text": "Cáliz Santo Grial 1-2002 ref 35 santo cáliz valencia ágata asas perlas cabujones",
+    "images": [
+      "1-2002.jpg"
+    ],
+    "notes": "Ficha web réplica del Santo Grial.",
+    "despiece": {
+      "peso_aprox_g": "750",
+      "tiempo_estimado_horas": "26",
+      "tiempo_entallado": "3h",
+      "tiempo_estampacion": "2h",
+      "tiempo_cincelado": "8h",
+      "tiempo_montaje": "7h",
+      "tiempo_pulido": "2h",
+      "tiempo_banos": "1h 30m",
+      "tiempo_acabado": "1h 30m",
+      "materiales_principales": "Latón sobredorado 24k, piedras semipreciosas, perlas engarzadas",
+      "precio_referencia": "2850 €",
+      "notas_generales": "Pieza de orfebrería monumental con engaste de 28 piedras finas.",
+      "piezas": [
+        {
+          "nombre": "Cuenco superior",
+          "material": "Latón sobredorado/ágata",
+          "proceso": "Entallado y engarce"
+        },
+        {
+          "nombre": "Asas dobles caladas",
+          "material": "Microfusión latón",
+          "proceso": "Fundición, cincelado y taladrado"
+        },
+        {
+          "nombre": "Nudo intermedio enjoyado",
+          "material": "Latón",
+          "proceso": "Engaste de perlas y rubíes sintéticos"
+        },
+        {
+          "nombre": "Base navicular invertida",
+          "material": "Chapa 1.5mm",
+          "proceso": "Repujado y engastes de cabujones"
+        }
+      ],
+      "otros_materiales": [
+        "28 piedras y perlas calibradas",
+        "Remaches de unión asas",
+        "Tornillería dorada"
+      ]
+    }
+  },
+  {
+    "id": "1-2101-2",
+    "ref": "1-2101-2",
+    "ref_belloso": "36",
+    "nombre_belloso": "Cáliz nudo Evangelistas ref 36",
+    "name": "Cáliz Tetramorfos Nudo Cuatro Evangelistas Mod. 1-2101-(2)",
+    "category": "Cálices",
+    "subcategory": "Cálices con Figuras",
+    "description": "Cáliz con las figuras de los cuatro Evangelistas (San Mateo, San Marcos, San Lucas y San Juan) primorosamente esculpidas en el nudo.",
+    "full_text": "Cáliz nudo Evangelistas 1-2101-2 1-2101-(2) ref 36 mateo marcos lucas juan tetramorfos figuras",
+    "images": [
+      "1-2101-2.jpg"
+    ],
+    "notes": "Ficha oficial web de catálogo.",
+    "despiece": {
+      "peso_aprox_g": "620",
+      "tiempo_estimado_horas": "18",
+      "tiempo_entallado": "2h 30m",
+      "tiempo_estampacion": "1h 30m",
+      "tiempo_cincelado": "8h",
+      "tiempo_montaje": "3h",
+      "tiempo_pulido": "1h 30m",
+      "tiempo_banos": "1h",
+      "tiempo_acabado": "30m",
+      "materiales_principales": "Plata 925 / Latón dorado con figuras en bulto redondo",
+      "precio_referencia": "1750 €",
+      "notas_generales": "Figuras de los evangelistas con gran detalle de rostros y atributos.",
+      "piezas": [
+        {
+          "nombre": "Copa interior dorada",
+          "material": "Latón/Plata",
+          "proceso": "Entallado"
+        },
+        {
+          "nombre": "Nudo con 4 Evangelistas",
+          "material": "Microfusión",
+          "proceso": "Cera perdida y cincelado manual"
+        },
+        {
+          "nombre": "Base circular moldurada",
+          "material": "Chapa latón",
+          "proceso": "Estampación y cincel"
+        }
+      ],
+      "otros_materiales": [
+        "Varilla roscada M8",
+        "Lastre de pie"
+      ]
+    }
+  },
+  {
+    "id": "CAL-CORD-GRANDE",
+    "ref": "1-CORD-01",
+    "ref_belloso": "92",
+    "nombre_belloso": "Cáliz Cordero grande plateado con interior oro ref 92",
+    "name": "Cáliz Cordero Grande Plateado Mod. 1-CORD-01",
+    "category": "Cálices",
+    "subcategory": "Cálices Eucarísticos",
+    "description": "Cáliz plateado con interior de oro fino y relieve del Cordero Pascual triunfante en el fuste.",
+    "full_text": "Cáliz cordero grande plateado 1-cord-01 cordero pascual pez patena",
+    "images": [
+      "caliz-cordero-grande-plateado.jpg"
+    ],
+    "notes": "Catálogo web modelo Cordero.",
+    "despiece": {
+      "peso_aprox_g": "740",
+      "tiempo_estimado_horas": "15",
+      "tiempo_entallado": "3h",
+      "tiempo_estampacion": "1h 30m",
+      "tiempo_cincelado": "4h",
+      "tiempo_montaje": "3h",
+      "tiempo_pulido": "2h",
+      "tiempo_banos": "1h",
+      "tiempo_acabado": "30m",
+      "materiales_principales": "Latón bañado en plata fina 1000 con interior oro 24k",
+      "precio_referencia": "1420 €",
+      "notas_generales": "Interior de copa protegido con barniz horneado.",
+      "piezas": [
+        {
+          "nombre": "Copa plateada / interior oro",
+          "material": "Latón",
+          "proceso": "Entallado y doble baño galvánico"
+        },
+        {
+          "nombre": "Relieve Cordero Pascual",
+          "material": "Microfusión",
+          "proceso": "Fundición y cincelado"
+        },
+        {
+          "nombre": "Base cónica",
+          "material": "Latón",
+          "proceso": "Estampación"
+        }
+      ],
+      "otros_materiales": [
+        "Varilla central M8",
+        "Lastre"
+      ]
+    }
+  },
+  {
+    "id": "CAL-DODECAGONAL",
+    "ref": "1-DOD-01",
+    "ref_belloso": "93",
+    "nombre_belloso": "Cáliz dodecagonal doce apóstoles ref 93",
+    "name": "Cáliz Dodecagonal Doce Apóstoles con Patena Mod. 1-DOD-01",
+    "category": "Cálices",
+    "subcategory": "Cálices Especiales",
+    "description": "Cáliz de diseño exclusivo de doce caras facetadas que simbolizan los doce apóstoles y las doce tribus de Israel.",
+    "full_text": "Cáliz dodecagonal 1-dod-01 12 caras apóstoles tribus jerusalén patena",
+    "images": [
+      "caliz-dodecagonal.jpg"
+    ],
+    "notes": "Catálogo web modelo dodecagonal.",
+    "despiece": {
+      "peso_aprox_g": "780",
+      "tiempo_estimado_horas": "18",
+      "tiempo_entallado": "3h",
+      "tiempo_estampacion": "3h",
+      "tiempo_cincelado": "4h",
+      "tiempo_montaje": "4h",
+      "tiempo_pulido": "2h 30m",
+      "tiempo_banos": "1h",
+      "tiempo_acabado": "30m",
+      "materiales_principales": "Latón plateado o dorado de orfebrería",
+      "precio_referencia": "1680 €",
+      "notas_generales": "Geometría facetada de doce planos de estricta precisión.",
+      "piezas": [
+        {
+          "nombre": "Copa dodecagonal",
+          "material": "Latón",
+          "proceso": "Estampación en matriz de 12 caras"
+        },
+        {
+          "nombre": "Nudo facetado",
+          "material": "Latón fresado",
+          "proceso": "Fresado CNC y pulido"
+        },
+        {
+          "nombre": "Peana dodecagonal",
+          "material": "Latón",
+          "proceso": "Estampación"
+        },
+        {
+          "nombre": "Patena doce caras",
+          "material": "Latón",
+          "proceso": "Entallado facetado"
+        }
+      ],
+      "otros_materiales": [
+        "Varilla inox M8",
+        "Lastre de pie"
+      ]
+    }
+  },
+  {
+    "id": "CAL-PRES-PIEDRAS",
+    "ref": "1-PRES-01",
+    "ref_belloso": "91",
+    "nombre_belloso": "Cáliz y patena presidencial con piedras ref 91",
+    "name": "Cáliz y Patena Presidencial con Piedras Mod. 1-PRES-01",
+    "category": "Cálices",
+    "subcategory": "Cálices Presidenciales",
+    "description": "Gran cáliz presidencial utilizado en celebraciones comunitarias y solemnes, con aro de doce piedras engastadas y patena grande a juego.",
+    "full_text": "Cáliz y patena presidencial con piedras 1-pres-01 piedras engastadas patena grande neocatecumenal",
+    "images": [
+      "caliz-presidencial-piedras.jpg"
+    ],
+    "notes": "Catálogo web modelo presidencial.",
+    "despiece": {
+      "peso_aprox_g": "920",
+      "tiempo_estimado_horas": "20",
+      "tiempo_entallado": "4h",
+      "tiempo_estampacion": "2h",
+      "tiempo_cincelado": "5h",
+      "tiempo_montaje": "5h",
+      "tiempo_pulido": "2h",
+      "tiempo_banos": "1h",
+      "tiempo_acabado": "1h",
+      "materiales_principales": "Latón con baño de plata y oro, piedras semipreciosas",
+      "precio_referencia": "1950 €",
+      "notas_generales": "Patena presidencial grabada incluida en el juego.",
+      "piezas": [
+        {
+          "nombre": "Gran copa presidencial",
+          "material": "Latón sobredorado",
+          "proceso": "Entallado en torno de repujar"
+        },
+        {
+          "nombre": "Aro con 12 engastes",
+          "material": "Latón",
+          "proceso": "Engaste de 12 piedras"
+        },
+        {
+          "nombre": "Nudo esférico grande",
+          "material": "Microfusión",
+          "proceso": "Torneado y labrado"
+        },
+        {
+          "nombre": "Base ancha troncocónica",
+          "material": "Latón",
+          "proceso": "Estampación"
+        },
+        {
+          "nombre": "Patena presidencial 24 cm",
+          "material": "Latón dorado",
+          "proceso": "Entallado y grabado"
+        }
+      ],
+      "otros_materiales": [
+        "12 piedras naturales",
+        "Varilla M10",
+        "Lastre 300g"
+      ]
+    }
+  },
+  {
+    "id": "CUS-2001",
+    "ref": "3-0101",
+    "ref_web": "3-0101",
+    "ref_belloso": "85",
+    "nombre_belloso": "Custodia de sol barroca ráfagas ref 85",
+    "name": "Custodia de Sol Barroca con Ráfagas",
+    "category": "Custodias y Sagrarios",
+    "subcategory": "Custodias de Sol",
+    "description": "Custodia procesional y de exposición con viril dorado para sagrada forma grande. Sol radiante de rayos flamígeros alternados con rayos rectos, pedrería engastada en cabujón y fuste con ángeles portantes en bulto redondo.",
+    "full_text": "3-0101 CUS-2001 85 ref 85 belloso 85 Custodia de Sol Barroca con Ráfagas custodia viril rayos angeles Custodias y Sagrarios Metal Belloso Sezar orfebreriareligiosa",
+    "page": 3,
+    "images": [],
+    "notes_ficha": "Viril de cierre a bayoneta con cristal biselado de cuarzo óptico.",
+    "despiece": {
+      "peso_aprox_g": "3200",
+      "tiempo_estimado_horas": "42",
+      "materiales_principales": "Plata de ley 925, latón sobredorado en oro 24k, cristal de cuarzo",
+      "precio_referencia": "3.400 €",
+      "notas_generales": "Altura total 68 cm. Diámetro del viril para formas de hasta 95 mm.",
+      "piezas": [
+        {
+          "nombre": "Chapa sol radiante ráfagas",
+          "tipo": "chapa recortada y repujada",
+          "material": "Plata 925",
+          "diametro_mm": "420",
+          "espesor_mm": "1.5",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Calado manual de rayos flamígeros"
+        },
+        {
+          "nombre": "Aro viril con bisel",
+          "tipo": "torneado",
+          "material": "Latón dorado",
+          "diametro_mm": "115",
+          "espesor_mm": "2.5",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Ajuste hermético"
+        },
+        {
+          "nombre": "Base piramidal barroca repujada",
+          "tipo": "chapa / embutición",
+          "material": "Plata 925",
+          "diametro_mm": "240",
+          "espesor_mm": "1.8",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Cuatro cartelas con escenas eucarísticas"
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "Entallado",
+          "tarea_material": "Conformado de elementos de fuste y base",
+          "cantidad": 5,
+          "unidad": "horas",
+          "notas": "Torno repujador"
+        },
+        {
+          "area": "Estampación",
+          "tarea_material": "Estampado de rayos rectos y molduras",
+          "cantidad": 2,
+          "unidad": "horas",
+          "notas": "Prensa balancín"
+        },
+        {
+          "area": "Cincelado",
+          "tarea_material": "Cincelado de rayos flamígeros, ángeles y escenas",
+          "cantidad": 18,
+          "unidad": "horas",
+          "notas": "Cincelado exhaustivo"
+        },
+        {
+          "area": "Montaje",
+          "tarea_material": "Montaje de estructura interna de refuerzo y viril",
+          "cantidad": 8,
+          "unidad": "horas",
+          "notas": "Eje de acero inox"
+        }
+      ],
+      "tiempo_entallado": "5h",
+      "tiempo_estampacion": "2h",
+      "tiempo_cincelado": "18h",
+      "tiempo_montaje": "8h",
+      "tiempo_pulido": "5h",
+      "tiempo_banos": "3h",
+      "tiempo_acabado": "1h"
+    }
+  },
+  {
+    "id": "FAR-3001",
+    "ref": "4-0101",
+    "ref_web": "4-0101",
+    "ref_belloso": "104",
+    "nombre_belloso": "Farol de mano guía hermandad ref 104",
+    "name": "Farol de Mano Guía de Hermandad",
+    "category": "Faroles y Ciriales",
+    "subcategory": "Faroles de Mano y Guía",
+    "description": "Farol hexagonal de procesión en metal plateado con cristales catedral biselados, coronilla calada y cañón tubular con abrazaderas de tornillo mariposa.",
+    "full_text": "4-0101 FAR-3001 104 ref 104 belloso 104 Farol de Mano Guía de Hermandad farol procesion cristales Faroles y Ciriales Metal Belloso Sezar orfebreriareligiosa",
+    "page": 4,
+    "images": [],
+    "notes_ficha": "Sistema de bisagra oculta para reemplazo rápido de velas o cera líquida.",
+    "despiece": {
+      "peso_aprox_g": "1850",
+      "tiempo_estimado_horas": "16",
+      "materiales_principales": "Metal plateado de ley con baño galvánico de plata, vidrio templado",
+      "precio_referencia": "480 €",
+      "notas_generales": "Apto para varas estándar de 28 mm.",
+      "piezas": [
+        {
+          "nombre": "Caras hexagonales caladas",
+          "tipo": "chapa calada",
+          "material": "Latón",
+          "diametro_mm": "180",
+          "espesor_mm": "1.0",
+          "cantidad": 6,
+          "unidad": "ud",
+          "notas": "Troquelado y repaso a lima"
+        },
+        {
+          "nombre": "Cúpula superior coronilla",
+          "tipo": "chapa embutida",
+          "material": "Latón",
+          "diametro_mm": "160",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Ventilación superior"
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "Entallado",
+          "tarea_material": "Conformado de cúpula y remates",
+          "cantidad": 2,
+          "unidad": "horas",
+          "notas": "Torno repujador"
+        },
+        {
+          "area": "Estampación",
+          "tarea_material": "Estampado de celosías y coronillas",
+          "cantidad": 1,
+          "unidad": "horas",
+          "notas": "Prensa balancín"
+        },
+        {
+          "area": "Cincelado",
+          "tarea_material": "Cincelado de aristas y flores",
+          "cantidad": 4,
+          "unidad": "horas",
+          "notas": "Cincel plano"
+        },
+        {
+          "area": "Montaje",
+          "tarea_material": "Soldadura con plata y encaje de cristales",
+          "cantidad": 5,
+          "unidad": "horas",
+          "notas": "Soldadura fuerte"
+        }
+      ],
+      "tiempo_entallado": "2h",
+      "tiempo_estampacion": "1h",
+      "tiempo_cincelado": "4h",
+      "tiempo_montaje": "5h",
+      "tiempo_pulido": "2h 30min",
+      "tiempo_banos": "1h",
+      "tiempo_acabado": "30 min"
+    }
+  },
+  {
+    "id": "CIR-3012",
+    "ref": "4-0201",
+    "ref_web": "4-0201",
+    "ref_belloso": "112",
+    "nombre_belloso": "Cirial procesional nudo hexagonal ref 112",
+    "name": "Cirial de Procesión con Nudo Hexagonal",
+    "category": "Faroles y Ciriales",
+    "subcategory": "Ciriales",
+    "description": "Cirial procesional de cuerpo gallonado con macollas cinceladas a mano y plato recogecera calado. Rematado con guirnaldas y caña repujada de motivos vegetales.",
+    "full_text": "4-0201 CIR-3012 112 ref 112 belloso 112 Cirial de Procesión con Nudo Hexagonal cirial gallonado recogecera Faroles y Ciriales Metal Belloso Sezar orfebreriareligiosa",
+    "page": 4,
+    "images": [],
+    "notes_ficha": "Cazoleta desmontable para facilitar limpieza de cera.",
+    "despiece": {
+      "peso_aprox_g": "2100",
+      "tiempo_estimado_horas": "20",
+      "materiales_principales": "Metal plateado con baño de 10 micras, tubo interior de refuerzo",
+      "precio_referencia": "520 €",
+      "notas_generales": "Cazoleta estándar para cirios de 40 a 55 mm de diámetro.",
+      "piezas": [
+        {
+          "nombre": "Plato recogecera gallonado",
+          "tipo": "disco",
+          "material": "Latón",
+          "diametro_mm": "220",
+          "espesor_mm": "1.5",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Entallado y calado"
+        },
+        {
+          "nombre": "Macolla central hexagonal",
+          "tipo": "chapa repujada",
+          "material": "Latón",
+          "diametro_mm": "130",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Seis caras con cartelas"
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "Entallado",
+          "tarea_material": "Conformado de plato y cazoleta",
+          "cantidad": 2.5,
+          "unidad": "horas",
+          "notas": "Torno repujador"
+        },
+        {
+          "area": "Estampación",
+          "tarea_material": "Estampado de hojas y gallones",
+          "cantidad": 1,
+          "unidad": "horas",
+          "notas": "Matriz 112"
+        },
+        {
+          "area": "Cincelado",
+          "tarea_material": "Cincelado de macolla y guirnaldas",
+          "cantidad": 4.5,
+          "unidad": "horas",
+          "notas": "Pez de orfebre"
+        },
+        {
+          "area": "Montaje",
+          "tarea_material": "Ensamblaje mecánico y roscado de caña",
+          "cantidad": 3,
+          "unidad": "horas",
+          "notas": "Varilla central"
+        }
+      ],
+      "tiempo_entallado": "2h 30min",
+      "tiempo_estampacion": "1h",
+      "tiempo_cincelado": "4h 30min",
+      "tiempo_montaje": "3h",
+      "tiempo_pulido": "2h",
+      "tiempo_banos": "1h",
+      "tiempo_acabado": "30 min"
+    }
+  },
+  {
+    "id": "COR-4001",
+    "ref": "5-0101",
+    "ref_web": "5-0101",
+    "ref_belloso": "140",
+    "nombre_belloso": "Corona imperial dolorosa salida ref 140",
+    "name": "Corona Imperial de Salida para Dolorosa",
+    "category": "Coronas y Diademas",
+    "subcategory": "Coronas de Virgen",
+    "description": "Corona imperial procesional labrada en plata de ley y oro fino. Canasto calado con cartelas de la Pasión, imperiales enriquecidos con pedrería y ráfaga flamígera con 12 estrellas sobredoradas.",
+    "full_text": "5-0101 COR-4001 140 ref 140 belloso 140 Corona Imperial de Salida para Dolorosa corona virgen canasto rafaga estrellas Coronas y Diademas Metal Belloso Sezar orfebreriareligiosa",
+    "page": 5,
+    "images": [],
+    "notes_ficha": "Medir con calibre el aro del canasto contra el perno de la imagen antes de soldar los imperiales.",
+    "despiece": {
+      "peso_aprox_g": "2800",
+      "tiempo_estimado_horas": "65",
+      "materiales_principales": "Plata de ley 925, baño de oro fino de 24k de 5 micras, pedrería de circón",
+      "precio_referencia": "4.800 €",
+      "notas_generales": "Diámetro interior de canasto estándar 165 mm.",
+      "piezas": [
+        {
+          "nombre": "Chapa ráfaga flamígera",
+          "tipo": "chapa recortada y repujada",
+          "material": "Plata 925",
+          "diametro_mm": "620",
+          "espesor_mm": "1.5",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Calado manual de ráfagas y rayos biselados"
+        },
+        {
+          "nombre": "Canasto circular calado",
+          "tipo": "chapa curvada",
+          "material": "Plata 925",
+          "diametro_mm": "170",
+          "espesor_mm": "1.4",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Cartelas de la Pasión y flores de lis"
+        },
+        {
+          "nombre": "Estrellas de ráfaga sobredoradas",
+          "tipo": "fundición / microfusión",
+          "material": "Plata 925",
+          "diametro_mm": "32",
+          "espesor_mm": "2.0",
+          "cantidad": 12,
+          "unidad": "ud",
+          "notas": "Dorado 24k y engaste de circón central"
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "Entallado",
+          "tarea_material": "Conformado de aros de canasto e imperiales",
+          "cantidad": 4,
+          "unidad": "horas",
+          "notas": "Torno repujador"
+        },
+        {
+          "area": "Estampación",
+          "tarea_material": "Estampado de molduras y perfilado de estrellas",
+          "cantidad": 2.5,
+          "unidad": "horas",
+          "notas": "Prensa balancín"
+        },
+        {
+          "area": "Cincelado",
+          "tarea_material": "Cincelado de cartelas, follaje, canasto y rayos",
+          "cantidad": 32,
+          "unidad": "horas",
+          "notas": "Cincelado magistral"
+        },
+        {
+          "area": "Montaje",
+          "tarea_material": "Ensamblaje de imperiales, cruz de remate y atornillado de ráfaga",
+          "cantidad": 12,
+          "unidad": "horas",
+          "notas": "Ajuste de precisión"
+        }
+      ],
+      "tiempo_entallado": "4h",
+      "tiempo_estampacion": "2h 30min",
+      "tiempo_cincelado": "32h",
+      "tiempo_montaje": "12h",
+      "tiempo_pulido": "6h",
+      "tiempo_banos": "3h",
+      "tiempo_acabado": "1h"
+    }
+  },
+  {
+    "id": "JAR-5001",
+    "ref": "6-0101",
+    "ref_web": "6-0101",
+    "ref_belloso": "165",
+    "nombre_belloso": "Jarra palio asas dragón repujada ref 165",
+    "name": "Jarra de Paso de Palio con Asas de Dragón",
+    "category": "Jarras y Peanas",
+    "subcategory": "Jarras de Palio",
+    "description": "Jarra para exorno floral de paso de palio repujada con motivos barrocos, cuerpo abombado con panza gallonada y asas fundidas en forma de dragones marinos alados.",
+    "full_text": "6-0101 JAR-5001 165 ref 165 belloso 165 Jarra de Paso de Palio con Asas de Dragón jarra palio dragon dragones Jarras y Peanas Metal Belloso Sezar orfebreriareligiosa",
+    "page": 6,
+    "images": [],
+    "notes_ficha": "Refuerzo interior de plomo en la base para evitar volcado con flores pesadas.",
+    "despiece": {
+      "peso_aprox_g": "3100",
+      "tiempo_estimado_horas": "28",
+      "materiales_principales": "Metal plateado de ley con 15 micras de baño, alma de lastre",
+      "precio_referencia": "650 €",
+      "notas_generales": "Altura 48 cm. Boca ancha para colocación de conos de floristería.",
+      "piezas": [
+        {
+          "nombre": "Cuerpo panza abombada",
+          "tipo": "disco entallado",
+          "material": "Latón",
+          "diametro_mm": "320",
+          "espesor_mm": "1.4",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Entallado profundo en dos mitades"
+        },
+        {
+          "nombre": "Cuello y boca acampanada",
+          "tipo": "disco entallado",
+          "material": "Latón",
+          "diametro_mm": "210",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Pestaña vuelta para evitar cortes"
+        },
+        {
+          "nombre": "Asas de dragón fundidas",
+          "tipo": "fundición en arena",
+          "material": "Latón",
+          "diametro_mm": "190",
+          "espesor_mm": "8.0",
+          "cantidad": 2,
+          "unidad": "ud",
+          "notas": "Cincelado y soldadura de unión"
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "Entallado",
+          "tarea_material": "Conformado de panza, cuello y base en torno",
+          "cantidad": 4,
+          "unidad": "horas",
+          "notas": "Torno repujador"
+        },
+        {
+          "area": "Estampación",
+          "tarea_material": "Estampado de virolas y cartelas",
+          "cantidad": 1.5,
+          "unidad": "horas",
+          "notas": "Prensa balancín"
+        },
+        {
+          "area": "Cincelado",
+          "tarea_material": "Cincelado de gallones y textura de escamas en asas",
+          "cantidad": 8,
+          "unidad": "horas",
+          "notas": "Cincel de trazo"
+        },
+        {
+          "area": "Montaje",
+          "tarea_material": "Soldadura con plata de asas y base lastrada",
+          "cantidad": 5,
+          "unidad": "horas",
+          "notas": "Soldadura fuerte"
+        }
+      ],
+      "tiempo_entallado": "4h",
+      "tiempo_estampacion": "1h 30min",
+      "tiempo_cincelado": "8h",
+      "tiempo_montaje": "5h",
+      "tiempo_pulido": "4h",
+      "tiempo_banos": "2h",
+      "tiempo_acabado": "30 min"
+    }
+  },
+  {
+    "id": "INC-6001",
+    "ref": "7-0101",
+    "ref_web": "7-0101",
+    "ref_belloso": "210",
+    "nombre_belloso": "Incensario catedralicio gótico cadenas ref 210",
+    "name": "Incensario Catedralicio Gótico con Cadenas",
+    "category": "Inciensarios y Navetas",
+    "subcategory": "Inciensarios Litúrgicos",
+    "description": "Incensario catedralicio con cúpula arquitectónica calada inspirada en agujas góticas, cazoleta interior de fundición refractaria desmontable y cuatro cadenas eslabonadas de acero inoxidable plateado con anilla ergonómica.",
+    "full_text": "7-0101 INC-6001 210 ref 210 belloso 210 Incensario Catedralicio Gótico con Cadenas incensario cadenas gotico Inciensarios y Navetas Metal Belloso Sezar orfebreriareligiosa",
+    "page": 7,
+    "images": [],
+    "notes_ficha": "Comprobar el deslizamiento sin roces de la anilla portacadenas antes del baño.",
+    "despiece": {
+      "peso_aprox_g": "1450",
+      "tiempo_estimado_horas": "14",
+      "materiales_principales": "Metal plateado de ley con cazoleta de hierro fundido interior, cadenas inox",
+      "precio_referencia": "390 €",
+      "notas_generales": "Tiro forzado por chimeneas caladas superiores para brasas de carbón vegetal.",
+      "piezas": [
+        {
+          "nombre": "Cúpula superior calada gótica",
+          "tipo": "chapa calada",
+          "material": "Latón",
+          "diametro_mm": "150",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Calado manual de arquerías de tiro"
+        },
+        {
+          "nombre": "Cuerpo inferior cazoleta",
+          "tipo": "disco",
+          "material": "Latón",
+          "diametro_mm": "150",
+          "espesor_mm": "1.4",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Entallado hondo"
+        },
+        {
+          "nombre": "Juego de 4 cadenas con anilla",
+          "tipo": "ensamblado",
+          "material": "Acero inox plateado",
+          "diametro_mm": "850",
+          "espesor_mm": "3.0",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Eslabón soldado de seguridad"
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "Entallado",
+          "tarea_material": "Conformado de cuerpo inferior y cúpula",
+          "cantidad": 2.5,
+          "unidad": "horas",
+          "notas": "Torno repujador"
+        },
+        {
+          "area": "Estampación",
+          "tarea_material": "Estampado de virolas y molduras",
+          "cantidad": 0.75,
+          "unidad": "horas",
+          "notas": "Matriz 210"
+        },
+        {
+          "area": "Cincelado",
+          "tarea_material": "Calado y cincelado de ventanales góticos",
+          "cantidad": 4,
+          "unidad": "horas",
+          "notas": "Pez de orfebre"
+        },
+        {
+          "area": "Montaje",
+          "tarea_material": "Montaje de anilla, tiro y sujeción de cadenas",
+          "cantidad": 3,
+          "unidad": "horas",
+          "notas": "Ajuste de deslizamiento"
+        }
+      ],
+      "tiempo_entallado": "2h 30min",
+      "tiempo_estampacion": "45 min",
+      "tiempo_cincelado": "4h",
+      "tiempo_montaje": "3h",
+      "tiempo_pulido": "1h 30min",
+      "tiempo_banos": "1h",
+      "tiempo_acabado": "30 min"
+    }
+  },
+  {
+    "id": "NAV-6002",
+    "ref": "7-0201",
+    "ref_web": "7-0201",
+    "ref_belloso": "215",
+    "nombre_belloso": "Naveta eucarística con cucharilla concha ref 215",
+    "name": "Naveta Eucarística con Cucharilla de Concha",
+    "category": "Inciensarios y Navetas",
+    "subcategory": "Navetas",
+    "description": "Naveta para incienso en forma de barquilla con doble tapa abisagrada de cierre suave. Incluye cucharilla cincelada a juego con remate de cruz.",
+    "full_text": "7-0201 NAV-6002 215 ref 215 belloso 215 Naveta Eucarística con Cucharilla de Concha naveta barquilla concha cucharilla Inciensarios y Navetas Metal Belloso Sezar orfebreriareligiosa",
+    "page": 7,
+    "images": [],
+    "notes_ficha": "Bisagra de precisión con pasador extraíble.",
+    "despiece": {
+      "peso_aprox_g": "420",
+      "tiempo_estimado_horas": "10",
+      "materiales_principales": "Metal plateado de ley o latón dorado",
+      "precio_referencia": "280 €",
+      "notas_generales": "Cucharilla encaja en compartimento interior.",
+      "piezas": [
+        {
+          "nombre": "Cuerpo barquilla repujada",
+          "tipo": "chapa embutida",
+          "material": "Latón",
+          "diametro_mm": "180",
+          "espesor_mm": "1.2",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Forma de navío clásico"
+        },
+        {
+          "nombre": "Tapas dobles abisagradas",
+          "tipo": "chapa estampada",
+          "material": "Latón",
+          "diametro_mm": "90",
+          "espesor_mm": "1.0",
+          "cantidad": 2,
+          "unidad": "ud",
+          "notas": "Pestaña de apoyo"
+        },
+        {
+          "nombre": "Cucharilla con remate de cruz",
+          "tipo": "fundición",
+          "material": "Latón",
+          "diametro_mm": "130",
+          "espesor_mm": "1.5",
+          "cantidad": 1,
+          "unidad": "ud",
+          "notas": "Forma de concha marina"
+        }
+      ],
+      "otros_materiales": [
+        {
+          "area": "Entallado",
+          "tarea_material": "Conformado de pie y virola",
+          "cantidad": 1.5,
+          "unidad": "horas",
+          "notas": "Torno repujador"
+        },
+        {
+          "area": "Estampación",
+          "tarea_material": "Estampado de conchas y tapas",
+          "cantidad": 0.75,
+          "unidad": "horas",
+          "notas": "Matriz 215"
+        },
+        {
+          "area": "Cincelado",
+          "tarea_material": "Cincelado de olas y hojas en barquilla",
+          "cantidad": 3,
+          "unidad": "horas",
+          "notas": "Pez de orfebre"
+        },
+        {
+          "area": "Montaje",
+          "tarea_material": "Montaje y ajuste de bisagras de precisión",
+          "cantidad": 2,
+          "unidad": "horas",
+          "notas": "Pasador de acero"
+        }
+      ],
+      "tiempo_entallado": "1h 30min",
+      "tiempo_estampacion": "45 min",
+      "tiempo_cincelado": "3h",
+      "tiempo_montaje": "2h",
+      "tiempo_pulido": "1h",
+      "tiempo_banos": "45 min",
+      "tiempo_acabado": "20 min"
     }
   }
 ]
