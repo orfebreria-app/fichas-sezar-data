@@ -741,13 +741,14 @@
     "id": "1-2802",
     "ref": "1-2802",
     "category": "Cálices",
-    "subcategory": null,
+    "subcategory": "",
     "name": "Cáliz con martelé cincelado en pie y nudo de alabastro",
     "description": "azul Disponible en metal plateado y en plata de ley de 925mm. 16 cm. Altura 10 cm. Ø",
     "full_text": "Cáliz con martelé cincelado en pie y nudo de alabastro azul Disponible en metal plateado y en plata de ley de 925mm. 16 cm. Altura 10 cm. Ø",
     "page": 16,
     "images": [
-      "p16_1-2402_275.jpg"
+      "p16_1-2402_275.jpg",
+      "p16_1-2402_273.jpg"
     ],
     "despiece": {
       "peso_aprox_g": "",
@@ -756,7 +757,14 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
     "notes_ficha": ""
   },
