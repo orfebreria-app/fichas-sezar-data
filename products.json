@@ -542,7 +542,7 @@
     "id": "1-0502",
     "ref": "1-0502",
     "category": "Cálices",
-    "subcategory": null,
+    "subcategory": "",
     "name": "Cáliz con perlas en nudo y pie.",
     "description": "Disponible en plateado y dorado y dorado y plata de ley 925mm. 18 cm. Altura - 12 cm. Diámetro. Diámetro.",
     "full_text": "Cáliz con perlas en nudo y pie. Disponible en plateado y dorado y dorado y plata de ley 925mm. 18 cm. Altura - 12 cm. Diámetro. Diámetro.",
@@ -557,9 +557,18 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "75",
+    "nombre_belloso": "Cáliz 75 repujado de plata con patena ref 75"
   },
   {
     "id": "1-0902",
