@@ -487,7 +487,7 @@
     "id": "1-1502",
     "ref": "1-1502",
     "category": "Cálices",
-    "subcategory": null,
+    "subcategory": "",
     "name": "Cáliz cincelado.",
     "description": "Disponible en plateado y y plata de ley 925mm. 18 cm. Altura - 12 cm. Diámetro.",
     "full_text": "Cáliz cincelado. Disponible en plateado y y plata de ley 925mm. 18 cm. Altura - 12 cm. Diámetro.",
@@ -502,9 +502,18 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "504",
+    "nombre_belloso": ""
   },
   {
     "id": "1-1003",
