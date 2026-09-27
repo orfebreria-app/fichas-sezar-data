@@ -320,14 +320,13 @@
     "id": "1-0602",
     "ref": "1-0602",
     "category": "Cálices",
-    "subcategory": null,
+    "subcategory": "",
     "name": "Cáliz cincelado con nudo de uvas.",
     "description": "Disponible en plateado y dorado y en plata de ley 925mm. 19 cm. Altura - 10 cm. Diámetro.",
     "full_text": "Cáliz cincelado con nudo de uvas. Disponible en plateado y dorado y en plata de ley 925mm. 19 cm. Altura - 10 cm. Diámetro.",
     "page": 9,
     "images": [
       "p09_1-0602_127.jpg",
-      "p09_1-0602_128.jpg",
       "p09_1-0602_131.jpg"
     ],
     "despiece": {
@@ -337,9 +336,18 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "81",
+    "nombre_belloso": "Cáliz 81 cincelado espigas y racimos ref 81"
   },
   {
     "id": "1-1802",
