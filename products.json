@@ -1691,14 +1691,12 @@
     "id": "4-0403",
     "ref": "4-0403",
     "category": "Custodias",
-    "subcategory": null,
+    "subcategory": "",
     "name": "Custodia repujada y cincelada con adorno ángeles.",
     "description": "plata de ley 925mm. Disponible en plateado y dorado y en plata de ley 925mm. 57 cm. Altura.",
     "full_text": "Custodia repujada y cincelada con adorno ángeles. plata de ley 925mm. Disponible en plateado y dorado y en plata de ley 925mm. 57 cm. Altura.",
     "page": 29,
     "images": [
-      "p29_4-0403_532.jpg",
-      "p29_4-0403_533.jpg",
       "p29_4-0403_537.jpg",
       "p29_4-0403_538.jpg",
       "p29_4-0403_539.jpg"
@@ -1710,9 +1708,18 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "",
+    "nombre_belloso": ""
   },
   {
     "id": "4-0202",
