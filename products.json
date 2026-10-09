@@ -501,11 +501,18 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
     "notes_ficha": "",
-    "ref_belloso": "17",
-    "nombre_belloso": "Cáliz liso nudo cilíndrico ref 17"
+    "ref_belloso": "87-CALIZ",
+    "nombre_belloso": "Cáliz liso 24 cm 87"
   },
   {
     "id": "1-0403",
