@@ -223,15 +223,13 @@
     "id": "5-0702",
     "ref": "5-0702",
     "category": "Sagrarios",
-    "subcategory": null,
+    "subcategory": "",
     "name": "Sagrario con escena Anunciación.",
     "description": "Disponible en plateado y dorado. 44 cm. Altura - 30 cm. Anchura - 22 cm. Fondo.",
     "full_text": "Sagrario con escena Anunciación. Disponible en plateado y dorado. 44 cm. Altura - 30 cm. Anchura - 22 cm. Fondo.",
     "page": 7,
     "images": [
-      "p07_5-0702_93.jpg",
-      "p07_5-0702_94.jpg",
-      "p07_5-0702_95.jpg"
+      "p07_5-0702_93.jpg"
     ],
     "despiece": {
       "peso_aprox_g": "",
@@ -240,9 +238,18 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
-    "notes_ficha": ""
+    "notes_ficha": "",
+    "ref_belloso": "",
+    "nombre_belloso": "75"
   },
   {
     "id": "5-0901",
