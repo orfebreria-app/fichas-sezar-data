@@ -116,10 +116,17 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
     "notes_ficha": "",
-    "ref_belloso": "145",
+    "ref_belloso": "52",
     "nombre_belloso": "Aureola resplandor santo 145"
   },
   {
