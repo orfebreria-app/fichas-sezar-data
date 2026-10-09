@@ -133,7 +133,7 @@
     "id": "5-0502",
     "ref": "5-0502",
     "category": "Sagrarios",
-    "subcategory": null,
+    "subcategory": "",
     "name": "Sagrario Mármol Cristo Resucitado",
     "description": "Disponible en plateado y dorado. 59 cm. Altura - 38 cm. Base.",
     "full_text": "Sagrario Mármol Cristo Resucitado Disponible en plateado y dorado. 59 cm. Altura - 38 cm. Base.",
@@ -150,11 +150,18 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
     "notes_ficha": "",
-    "ref_belloso": "149",
-    "nombre_belloso": "Corona real gloria abierta 149"
+    "ref_belloso": "69-P-SAGRARIO",
+    "nombre_belloso": "Sagrario mármol 59x38 cm"
   },
   {
     "id": "5-0602",
