@@ -720,11 +720,18 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
     "notes_ficha": "",
-    "ref_belloso": "30",
-    "nombre_belloso": "Cáliz cruz nudo mármol ref 30"
+    "ref_belloso": "508-CALIZ",
+    "nombre_belloso": "Cáliz nudo mármol 21x12 cm 508"
   },
   {
     "id": "1-1902",
