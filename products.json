@@ -301,7 +301,7 @@
     "id": "1-2301",
     "ref": "1-2301",
     "category": "Cálices",
-    "subcategory": null,
+    "subcategory": "",
     "name": "Cáliz con columna.",
     "description": "Disponible en plateado y 22 cm. Altura - 8 cm. Diámetro.",
     "full_text": "Cáliz con columna. Disponible en plateado y 22 cm. Altura - 8 cm. Diámetro.",
@@ -316,10 +316,17 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
     "notes_ficha": "",
-    "ref_belloso": "40",
+    "ref_belloso": "",
     "nombre_belloso": "Cáliz con columna clásica ref 40"
   },
   {
