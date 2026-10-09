@@ -769,7 +769,7 @@
     "id": "1-1603",
     "ref": "1-1603",
     "category": "Cálices",
-    "subcategory": null,
+    "subcategory": "",
     "name": "Cáliz con grabado en copa y pie.",
     "description": "Disponible en plateado y dorado y en 18 cm. Altura - 12 cm. Diámetro.",
     "full_text": "Cáliz con grabado en copa y pie. Disponible en plateado y dorado y en 18 cm. Altura - 12 cm. Diámetro.",
@@ -784,11 +784,18 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
     "notes_ficha": "",
-    "ref_belloso": "26",
-    "nombre_belloso": "Cáliz grabado al aguafuerte ref 26"
+    "ref_belloso": "507-CALIZ",
+    "nombre_belloso": "Cáliz 507"
   },
   {
     "id": "1-1402",
