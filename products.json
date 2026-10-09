@@ -565,11 +565,18 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
     "notes_ficha": "",
-    "ref_belloso": "20",
-    "nombre_belloso": "Cáliz cincelado espigas y racimos ref 20"
+    "ref_belloso": "87/1-CALIZ",
+    "nombre_belloso": "Cáliz cincelado 24 cm 87/1"
   },
   {
     "id": "1-1502",
