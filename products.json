@@ -752,11 +752,18 @@
       "precio_referencia": "",
       "notas_generales": "",
       "piezas": [],
-      "otros_materiales": []
+      "otros_materiales": [],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
     "notes_ficha": "",
-    "ref_belloso": "34",
-    "nombre_belloso": "Cáliz con medallón PAX ref 34"
+    "ref_belloso": "5075/H",
+    "nombre_belloso": "Cáliz 15.5x10 cm 5075/H"
   },
   {
     "id": "1-1603",
