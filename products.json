@@ -3,7 +3,7 @@
     "id": "5-0102",
     "ref": "5-0102",
     "category": "Sagrarios",
-    "subcategory": null,
+    "subcategory": "",
     "name": "Sagrario Arqueta",
     "description": "Sagrario románico estilo arqueta. Disponible en Plateado y dorado. 53cm. Altura 60cm. Ancho 26cm. Fondo",
     "full_text": "Sagrario Arqueta Sagrario románico estilo arqueta. Disponible en Plateado y dorado. 53cm. Altura 60cm. Ancho 26cm. Fondo",
@@ -52,11 +52,18 @@
           "unidad": "",
           "notas": ""
         }
-      ]
+      ],
+      "tiempo_entallado": "",
+      "tiempo_estampacion": "",
+      "tiempo_cincelado": "",
+      "tiempo_montaje": "",
+      "tiempo_pulido": "",
+      "tiempo_banos": "",
+      "tiempo_acabado": ""
     },
     "notes_ficha": "",
-    "ref_belloso": "141",
-    "nombre_belloso": "Corona camarín flores 141"
+    "ref_belloso": "6-SAGRARIO",
+    "nombre_belloso": "Sagrario arqueta 53x60x26 cm"
   },
   {
     "id": "5-0402",
